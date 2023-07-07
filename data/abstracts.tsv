@@ -1,0 +1,957 @@
+abstract	panel	authors	affiliations
+0001	1	Sophia Hunger (1), Theresa Gessler (2)	1. WZB Berlin Social Science Center, 2. University of Zurich
+0002	15	Oda Nedregard	BI Norwegian Business School
+0003	4	Daniel Goldstein	Yale University
+0004	5	Heike Kluever (2), Jae-Jae Spoon (1)	1. University of Pittsburgh, 2. Humboldt University
+0005	21	Kevin Munger	Penn State University
+0006	7	Pedro Riera (1), Josep Serrano (2)	1. University Carlos III of Madrid, 2. University Carlos III of Madrid
+0007	8	Kirby Goidel, Kyung Suk Lee	Texas A&M University
+0008	9	Teresa Völker, Daniel Saldivia Gonzatti	WZB Berlin Social Science Center
+0009	17	Jaakko Meriläinen (1), Janne Tukiainen (2), Markus Jokela (3), Åsa von Schoultz (3)	1. ITAM, 2. University of Turku, 3. University of Helsinki
+0010	10	Jochen Rehmert	University of Zurich
+0011	18	Selim Erdem Aytaç (1), David Steinberg (2)	1. Koç University, 2. Johns Hopkins University
+0012	19	Elin Allern (1), Vibeke Wøien Hansen (2), Simon Otjes (3,4), Maiken Røed (5)	1. University of Oslo, 2. Institute for Social Research, Oslo, 3. Leiden University, 4. Groeningen University, 5. Lund University
+0013	218	David Parker (1), Alan Convery (2), Pavielle Haines (3)	1. Montana State University, 2. University of Edinburgh, 3. Rollins College
+0014	219	Davide Vittori (1), Davide Angelucci (2), Romain Lachat (3)	1. Université Libre de Bruxelles, 2. LUISS University, 3. Science Po Parits
+0015	220	Lionel Marquis (1), Anke Tresch (1,2)	1. University of Lausanne, 2. FORS
+0016	254	Magnus Rasmussen	University of Oslo
+0017	255	Lukas Linek, Jaromír Mazák	Institute of Sociology, Czech Academy of Sciences
+0018	1	Valentin Berger	University of Bamberg, Germany
+0019	4	Robert Förster, Joanna J.Bryson	Hertie School
+0020	15	Susana Coroado (1), Luis de Sousa (1), Pedro Magalhães (1), Miguel Pereira (2)	1. University of Lisbon, 2. University of Southern California
+0021	5	Andrea Aldrich	Yale University
+0022	21	Lukas Linsi, Seiki Tanaka, Francesco Giumelli	University of Groningen
+0023	7	Alexander Fouirnaies (1), Daniel Smith (2)	1. University of Chicago, 2. Columbia University
+0024	8	Nihad Aboud	University of Essex
+0025	17	Albert Solé-Ollé (1,2), Toni Rodon (3), Jaum Magre (2)	1. U. of Barcelona, 2. Institut d'Economia de Barcelona (IEB), 3. U. Pompeu Fabra
+0026	18	Rubén Ruiz-Rufino	King's College London
+0027	10	Sergio Ascencio	University of Essex
+0028	218	Sven Hegewald (1), Dominik Schraff (2)	1. Center for Comparative and International Studies, ETH Zurich, 2. Department of Politics and Society, Aalborg University
+0029	19	Lise Rødland	University of Oslo
+0030	219	Werner Krause, Christina Gahn	University of Vienna
+0031	220	Jeffrey Nonnemacher	University of PIttsburgh
+0032	254	Guillem Riambau (1,2, 3), Kai Ostwald (4)	1. Universitat de Barcelona, 2. IEB, 3. IPErG, 4. University of British Columbia
+0033	255	Yotam Margalit (1), Shir Raviv (1), Omer Solodoch (2)	1. Tel-Aviv University, 2. University of Pennsylvania
+0034	1	Anna van Vree	Aarhus University
+0035	15	Tine Paulsen	New York University
+0036	4	Diana Rafailova	European University Institute
+0037	5	Alba Huidobro	Universitat Pompeu Fabra, Institut Barcelona d'Estudis Internacionals
+0038	7	Orit Kedar (1), Maayan Mor (2)	1. Hebrew University of Jerusalem, 2. University of Barcelona
+0039	8	Alexander Sorg, Julian Wucherpfennig	Hertie School
+0040	17	Miguel Alquezar-Yus	European University Institute
+0041	9	Daniele Guariso, Omar Guerrero	The Alan Turing Institute
+0042	18	Gerald Schneider, Oleksandr Shevchuk	University of Konstanz
+0043	10	Noam Lupu (1), Nicholas Carnes (2)	1. Vanderbilt University, 2. Duke University
+0044	19	Camilo Cristancho	Universitat de Barcelona
+0045	218	Sandra León, Amuitz Garmendia	Carlos III-Juan March Institute (University Carlos III).
+0046	219	Morgan Le Corre Juratic	European University Institute
+0047	220	Florian Weiler (1), Jana Belschner (2), Raimondas Ibenskas (3)	1. Central European University, 2. Chr. Michelsen Institute, 3. University of Bergen
+0048	254	Vanessa Boese (1), Amanda Edgell (2), Adam Glynn (3), Sebastian Hellmeier (4), Juraj Medzihorsky (5), Matthew Wilson (6), Staffan Lindberg (1)	1. V-Dem Institute, University of Gothenburg, 2. University of Alabama, 3. Emory University, 4. WZB, 5. Durham University, 6. University of South Carolina
+0049	1	Kristina Simonsen, Tobias Widmann	Aarhus University
+0050	5	Akitaka Matsuo (1), Tiffany Barnes (2), Charles Crabtree (4), Yoshikuni Ono (3)	1. Department of Government, University of Essex, 2. Department of Political Science, University of Kentucky, 3. Department of Government, Dartmouth College, 4. Faculty of Political Science and Economics, Waseda University
+0051	21	William Lowe	Data Science Lab, Hertie School
+0052	7	Michael Becher, Irene Menendez Gonzalez	IE University
+0053	8	Andrew Long	Kansas State University
+0054	17	Leire Rincón García	Humboldt University
+0055	9	Tristan Klingelhöfer, Jochen Müller	Humboldt-Universität zu Berlin
+0056	10	Tilko Swalve (1), Arndt Leininger (2)	1. Leibniz University Hannover, 2. Chemnitz University of Technology
+0057	18	Alessandra Romani	The Graduate Institute Geneva
+0058	19	Maxime Walder	Post-Doc University of Geneva
+0059	218	Jordi Mas (1), Marc Sanjaume (2)	1. Universitat Oberta de Catalunya, 2. Universitat Pompeu Fabra
+0060	220	Rosario Aguilar	Newcastle University
+0061	254	J. Andrew Harris (2), Waleed Hashmi (2), Zach Warner (1)	1. Purdue University, 2. New York University Abu Dhabi
+0062	9	javier lorenzo	Universidad Carlos III de Madrid
+0063	10	Denis Cohen, Tim Allinger, Andreas Küpfer	University of Mannheim
+0064	19	Paride Carrara (1), Luca Pinto (2)	1. Alma Mater Studiorum - University of Bologna, 2. Alma Mater Studiorum - University of Bologna
+0065	254	André Walter (1), Patrick Emmenegger (2), Lucas Leemann (1)	1. University of Zurich, 2. University of St. Gallen
+0066	255	Eri Bertsou (1), Daniele Caramani (2), Jelle Koedam (1)	1. University of Zurich, 2. European University Institute
+0067	11	Ying Chen (1), Jan Zapal (2)	1. Johns Hopkins University, 2. CERGE-EI
+0068	20	Aleksandra Khokhlova	Institute of Political Science, Leiden University
+0069	25	Adam Glynn (1), Nahomi Ichino (1), Juraj Medzihorsky (2)	1. Emory University, 2. Durham University
+0070	26	Mathias Poertner	London School of Economics and Political Science
+0071	27	Simone Paci	Columbia University
+0072	28	Markus Kollberg	PhD Candidate - University College London
+0073	29	Marius Saeltzer (1), Sebastian Stier (1), Corinna Oschatz (2)	1. GESIS, 2. University of Amsterdam
+0074	30	Lisa Zehnter	Berlin Social Science Center (WZB)
+0075	31	Jonathan Polk (1), Jan Rovny (2)	1. Lund University, 2. Sciences Po, Paris
+0076	33	Jona de Jong	European University Institute
+0077	34	Davide Morisi (1), John Jost (2), Matthew Goldberg (3)	1. Collegio Carlo Alberto, 2. New York University, 3. Yale University
+0078	221	Nicola Maaser (1), Martin Strobl (2)	1. Aarhus University, 2. University of Birmingham
+0079	222	David Fortunato (1,2), Timm Betz (4), Diana O'Brien (4)	1. University of California, San Diego, 2. Copenhagen Business School, 3. Technical University of Munich, 4. Rice University
+0080	223	Mikyoung Jun (1), Scott Cook (2)	1. University of Houston, 2. Texas A&M University
+0081	256	Ursula Daxecker, Neeraj Prasad	University of Amsterdam
+0082	11	Philipp Schroeder	Ludwig-Maximilians-University Munich
+0083	20	Jens Wäckerle	Cologne Center for Comparative Politics, University of Cologne
+0084	22	Pavol Hardoš	Comenius University in Bratislava
+Faculty of Social and Economic Sciences
+0085	25	Moritz Marbach	Texas A&M
+0086	26	Fabio Angiolillo	University of Hong Kong
+0087	27	Kai Schulze	Technical University of Darmstadt
+0088	28	Maiken Røed	Lund University
+0089	30	Lanabi la Lova	LSE
+0090	29	Brian Boyle (1), Sebastian Popa (1), Zoltan Fazekas (2)	1. Newcastle University, 2. Copenhagen Business School
+0091	31	Queralt Tornafoch-Chirveches	PhD student at the University of Southern Denmark
+0092	32	Viktoria Jansesberger	University of Konstanz, University of Salzburg
+0093	33	Fabian Neuner	Arizona State University
+0094	34	Nathalie Giger (1), Maxime Walder (1), Jan Fivaz (2), Daniel Schwarz (2)	1. University of Geneva, 2. University of Bern
+0095	221	Krisztina Szabo (1,2), Ádám Reiff (1)	1. Central European University, 2. Corvinus University of Budapest
+0096	222	Max-Emil King, Jon Hernes Fiva	BI Norwegian Business School
+0097	223	Ail Kagalwala, Guy Whitten	Texas A&M University
+0098	256	Patrick Kuhn, Luke Blaxill, Gidon Cohen, Gary Hutchison, Nick Vivyan	Durham University
+0099	11	Peter Buisseret (1), Carlo Prato (2)	1. Harvard University, 2. Columbia University
+0100	20	Sebastian Koehler (1), Patrícia Calca (2)	1. King's College London, 2. ISCTE-IUL, Lisbon
+0101	25	Nahomi Ichino, Adam Glynn	Emory University
+0102	27	Joachim Blatter (1), Philipp Lutz (2), Lea Portmann (1), Frowin Rausis (1), Melyssa Sigg (1)	1. University of Lucerne, 2. University of Geneva
+0103	28	Katjana Gattermann (1), Sofia Vasilopoulou (2), Rick Whitaker (3)	1. University of Amsterdam, 2. University of York, 3. University of Leicester
+0104	29	Lukas Linek, Michael Škvrňák	Institute of Sociology, Czech Academy of Sciences
+0105	30	Julia Leschke	London School of Economics and Political Science
+0106	31	Martin Haselmayer (1), Alexander Horn (1), K. Jonathan Klüser (2)	1. University of Konstanz, 2. University of Zurich
+0107	32	Quynh Nguyen (1), Gabriele Spilker (2), Vally Koubi (3), Tobias Böhmelt (4)	1. Australian National University, 2. University of Konstanz, 3. ETH Zurich, 4. University of Essex
+0108	34	Teresa Völker, Daniel Saldivia Gonzatti	WZB Berlin Social Science Center
+0109	221	Pedro Riera (1), Alberto Penadés (2), José Manuel Pavía (3)	1. University Carlos III of Madrid, 2. University of Salamanca, 3. University of Valencia
+0110	222	Cristina Bodea (1), Andrew Kerner (2), Thomas Sattler (3), FM Ferrara (4)	1. Michigan State University, 2. Michigan State University, 3. University of Geneva, 4. LSE / ECB
+0111	223	Casey Crisman-Cox	Texas A&M University
+0112	256	Gidon Cohen, Patrick Kuhn, Nick Vivyan	Durham University
+0113	11	Giovanna Invernizzi	Collegio Carlo Alberto
+0114	22	Sungmin Rho	IHEID
+0115	25	William Lowe	Data Science Lab, Hertie School
+0116	30	Bruno Castanho Silva (1), Rosario Aguilar (2), Federico Vegetti (3)	1. Cologne Center for Comparative Politics (CCCP), University of Cologne, 2. Newcastle University, 3. University of Turin
+0117	31	Dilan Gunes (1), Francisca Castro (2)	1. Norwegian University of Science and Technology, 2. Humboldt University
+0118	32	Tim Wegenast (1), Cécile Richetta (2)	1. University of Konstanz, 2. University of Geneva
+0119	34	Mike Cowburn, Curd Knüpfer	Freie Universität Berlin
+0120	221	Zuheir Desai (1), Anderson Frey (2), Scott Tyson (2)	1. IE University, 2. University of Rochester
+0121	222	Zuheir Desai (1), Varun Karekurve-Ramachandra (2), Sergio Montero (2)	1. IE University, 2. University of Rochester
+0122	256	Giacomo Lemoli	New York University
+0123	11	Greg Sasso	Emory University
+0124	22	Sofia Collignon (1), Wolfgang Rüdig (2)	1. Royal Holloway, University of London, 2. University of Strathclyde
+0125	27	Laura Kettel	Freie Universität Berlin
+0126	30	Florian Schaffner (1), Joerg Friedrichs (1), Giuliano Formisano (1), Niklas Stoehr (2)	1. University of Oxford, 2. ETH Zurich
+0127	222	Alexandra Cirone, Aaron Childree, Harry Dienes	Cornell University
+0128	256	Daniela Donno (1), Kelly Morrison (2), Burcu Savun (3)	1. University of Cyprus, 2. V-Dem Institute, University of Gothenburg, 3. University of Pittsburgh
+0129	221	Anders Woller, Asmus Leth Olsen	University of Copenhagen
+0130	36	Jean Lacroix (1), Toke Aidt (2), Pierre-Guillaume Méon (3)	1. Université Paris-Saclay, 2. Cambridge, 3. ULB
+0131	37	Emiel Awad (1), Clement Minaudier (2)	1. London School of Economics and Political Science, 2. University of Vienna
+0132	38	Philipp Broniecki, Bjørn Høyland	University of Oslo
+0133	39	Niklas Harder (1,2), Samir Khalil (1,3)	1. Deutsches Zentrum für Integrations- und Migrationsforschung, 2. Immigration Policy Lab, Stanford, 3. University of Potsdam
+0134	42	Anselm Hager	Humboldt-Universität zu Berlin
+0135	43	Anna-Sophie Kurella, Milena Rapp	Mannheim Centre for European Social Research University of Mannheim
+0136	44	Eleonora Mattiacci	Amherst College
+0137	46	Magdalena Breyer, Delia Zollinger, Tabea Palmtag	University of Zurich
+0138	224	Mariaelisa Epifanio (1), Giacomo Damioli (2)	1. University of Liverpool, 2. European Commission, Joint Research Centre in Ispra.
+0139	225	Haifeng Huang	University of California, Merced
+0140	226	Evelyne Hübscher (1), Thomas Sattler (2), Colin Walder (3)	1. Central European University, 2. University of Geneva, 3. ETH Zürich
+0141	257	Tanushree Goyal (1), Sam van Noort (2), Mats Ahrenshop (3)	1. Harvard University, 2. Princeton University, 3. University of Oxford
+0142	259	Francesc Amat (1), Jordi Muñoz (1), Albert Falco (1), Toni Rodon (2), Marc Guinjoan (3)	1. University of Barcelona, 2. Universitat Pompeu Fabra, 3. UOC
+0143	12	Ceren Cinar (1), Ozgur Kibris (2)	1. 1. PhD Candidate at the London School of Economics and Political Science, Government Department, 2. 2. Professor at Sabanci University, Department of Economics
+0144	36	Lucas M. Novaes (1), Guadalupe Tuñon (2)	1. Insper - Institute of Education and Research, 2. Princeton University
+0145	37	Emiel Awad	London School of Economics and Political Science
+0146	38	Stefanie Bailer (1), Nathalie Giger (2), Maxime Walder (2)	1. University of Basel, 2. University of Geneva
+0147	39	Rasmus Schjødt	Aarhus University, Department of Political Science
+0148	40	Martijn Huysmans (1), Ton van den Brink (1), Philippe van Gruisen (2)	1. Utrecht University, 2. Leiden University
+0149	42	Clint Claessen, Tamaki Ohmura, Stefanie Bailer	University of Basel
+0150	44	Muzhou Zhang	University of Essex
+0151	46	Kamil Marcinkiewicz (1), Jarosław Flis (2)	1. University of Hamburg, 2. Jagiellonian University
+0152	224	Monika Nalepa (1), Barbara Piotrowska (2)	1. University of Chicago, 2. Department of Political Economy, King's College London
+0153	225	Fabio Angiolillo	University of Hong Kong
+0154	226	Evelyne Hübscher (1), Thomas Sattler (2), Markus Wagner (3)	1. Central European University, 2. University of Geneva, 3. University of Vienna
+0155	257	Eri Bertsou (1), Daniele Caramani (2), Jelle Koedam (1)	1. University of Zurich, 2. European University Institute
+0156	12	Leandro De Magalhaes (1), Salomo Hirvonen (2)	1. Bristol University, 2. University of Turku
+0157	36	Adrian del Rio	Center for Eastern European and International Studies
+0158	37	Federica Izzo (1), Jesse Crosson (2)	1. UCSD, 2. Trinity
+0159	38	Elena Frech (1), Stefanie Bailer (2), Sarah Bütikofer (3)	1. Universtät Bamberg, 2. Universität Basel, 3. Universität Zürich
+0160	39	Elisa Wirsching	New York University
+0161	40	Marketa Nekvindova	Institute of Political Studies of the Faculty of Social Sciences of the Charles University (IPS FSS CU)
+0162	42	Monika Bozhinoska Lazarova	University of Bamberg
+0163	43	Henrik Seeberg (1), James Adams (2)	1. Aarhus University, 2. UC Davies
+0164	44	Jakub Tesař, Michal Parízek	Charles University
+0165	46	Tristan Klingelhöfer (1), Nicole Loew (2), Simon Richter (3)	1. Humboldt-Universität zu Berlin, 2. Friedrich-Ebert-Stiftung, 3. Freie Universität Berlin
+0166	224	Albert Solé-Ollé (1,2), Elisabet Viladecans (1,2), Ghizlen Ouasbaa (1,2)	1. U. of Barcelona, 2. Institut d'Economia de Barcelona (IEB)
+0167	225	Amy Yunyu Chiang, Marlene Mauk	GESIS – Leibniz-Institute for the Social Sciences, University of California, San Francisco, University of Pittsburgh
+0168	226	John Kenny	University of East Anglia
+0169	257	Alex Hartland	University of Manchester
+0170	259	Marius Saeltzer	GESIS
+0171	12	Mark Kayser (1), Arndt Leininger (2), Andreas Murr (3), Lukas Stötzer (4)	1. Hertie School, 2. Chemnitz University of Technology, 3. University of Warwick, 4. Humboldt-Universität zu Berlin
+0172	36	Victoria Paniagua (1), Joan Ricart-Huguet (2)	1. London School of Economics, 2. Loyola University Maryland
+0173	37	Antoine Zerbini	London School of Economics and Political Science, 
+Department of Government
+0174	38	Christian Stecker (1), Jochen Müller (2)	1. TU Darmstadt, 2. Humboldt-Universität zu Berlin
+0175	39	Brian Kisida (1), Tomas Monarrez (2), Matthew Chingos (2)	1. University of Missouri, 2. Urban Institute
+0176	40	Benjamin Swift	University College Dublin
+0177	42	Mike Cowburn (1), Rachel Blum (2)	1. Freie Universität Berlin, 2. Oklahoma University
+0178	43	Quentin Borgeat	University of Geneva
+0179	46	Ruth Dassonneville (1), Rune Stubager (2), Mads Thau (3)	1. Université de Montréal, 2. Aarhus University, 3. Institute for Social Research
+0180	224	Joaquin Artes (1), Fernando De la Cuesta (1), Ignacio Jurado (2)	1. Complutense University, 2. Carlos III University
+0181	225	Tore Wig (1), Sirianne Dahlum (1), Haakon Gjerløw (2)	1. University of Oslo, Department of Political Science, 2. Peace Research Institute Oslo, PRIO
+0182	259	Ursula Daxecker, Neeraj Prasad	University of Amsterdam
+0183	38	Oliver Rittmann	University of Mannheim
+0184	39	Barbara Piotrowska	Department of Political Economy, King's College London
+0185	40	A. Maurits van der Veen	William & Mary
+0186	42	Michael Heaney	University of Glasgow
+0187	43	Sarah Wagner	University of Mannheim
+0188	46	Yaël Drunen (1,2), Bram Spruyt (1), Filip Van Droogenbroeck (1), Andrej Zaslove (2)	1. Vrije Universiteit Brussel, 2. Radboud Universiteit Nijmegen
+0189	224	Sebastian Fehrler (1), Viola Asri (2), Kumar Biswas (3), Urs Fischbacher (2), Katharina Michaelowa (4), Atonu Rabbani (5)	1. University of Bremen, Socium, 2. University of Konstanz, 3. World Bank, 4. University of Zurich, 5. University of Dhaka
+0190	226	Florian Schaffner	University of Oxford
+0191	48	Björn Bremer, Robin Hetzel	Max Planck Institute for the Study of Societies
+0192	51	Rubén Ruiz-Rufino	King's College London
+0193	50	Christina Gahn	Berlin Graduate School of Social Sciences (BGSS),
+Humboldt University of Berlin, University of Vienna
+0194	52	Ofra Klein (1), Nadine Hesse (2)	1. Scuola Normale Superiore, 2. Europa-Universität Flensburg
+0195	53	Jan Auerbach	Brunel University London
+0196	54	Simon Hug, Sandra Penic	University of Geneva
+0197	55	Andreas Juon	ETH Zurich, International Conflict Research Group
+0198	57	Alessandra Stampi-Bombelli, Dominik Hangartner, Elliott Ash, Gloria Gennaro	ETH Zurich
+0199	58	Hector Bahamonde	University of Turku
+0200	59	Josep Serrano-Serrat	Universidad Carlos III de Madrid
+0201	60	Victor Araújo	University of Zurich (UZH)
+0202	227	Rasmus Ollroge	Cluster of Excellence 'SCRIPTS - Contestations of the Liberal Script', Freie Universität Berlin
+0203	229	Cyrill Otteni	Technical University Dresden
+0204	198	Toni Rodon	Universitat Pompeu Fabra
+0205	206	Netanel Flamer	The International Security Studies Program, the Fletcher School, Tufts University, Departmant of Middle Eastern Studies, Bar-Ilan University
+0206	48	Jan Vogler	University of Konstanz
+0207	51	Matilde Ceron (1), Fabio Franchino (2)	1. University of Pavia, 2. University of Milan
+0208	50	Christian Arnold (1), Hannah Bechara (2), Slava Jankin (2)	1. Cardiff University, 2. Hertie School
+0209	53	Oliver Huwyler, Florence Ecormier-Nocca, Jeanne Marlier, Manuel Wagner, Laurenz Ennser-Jedenastik	University of Vienna
+0210	54	Tore Wig (1), Haakon Gjerløw (2)	1. University of Oslo, 2. Peace Research Institute Oslo
+0211	55	Oguzhan Turkoglu (1), Miceal Canavan (2)	1. Hertie School, 2. Trinity College Dublin
+0212	57	Miranda Simon (1), Cassilde Schwartz (2), David Hudson (3)	1. University of Essex, 2. Royal Holloway, University of London, 3. University of Birmingham
+0213	58	Tinghua Yu (1), Tara Slough (2)	1. Birkbeck, University of London, 2. New York University
+0214	60	Leire Rincón García	Humboldt University
+0215	229	Alexander Horn (1), Martin Haselmayer (1), K. Jonathan Klüser (2)	1. University of Konstanz, 2. University of Zurich
+0216	260	Karen Ferree (2), Ellen Lust (1), Cecilia Ahsan Jansson (1), Erica Metheney (1)	1. University of Gothenburg, 2. University of California - San Diego
+0217	198	Klara Dentler, Katharina Blinzler, Stephen Quinlan	GESIS Leibniz Institute for the Social Sciences
+0218	48	Shuai QIN	Vrije Universiteit Brussel
+0219	50	Olesya Sheblo	Gakushuin University
+0220	51	Giorgio Malet	University of Zurich
+0221	52	Anne-Kathrin Stroppe (1), Heidi Schulze (2)	1. GESIS – Leibniz Institute for the Social Sciences, 2. LMU Munich
+0222	53	Florence Ecormier-Nocca, Oliver Huwyler, Jeanne Marlier, Manuel Wagner, Laurenz Ennser-Jedenastik	University of Vienna, Department of Government
+0223	54	Scott Gates (1,2), Håvard Strand (1,2)	1. University of Oslo, 2. Peace Research Institute Oslo (PRIO)
+0224	55	Andreas Juon	ETH Zurich, International Conflict Research Group
+0225	56	Yuleng Zeng, Andreas Dür	University of Salzburg
+0226	57	Daniel Karell (2), Rabia Malik (1), Kasim Najam Shah (3)	1. University of Essex, 2. Yale University, 3. NADRA (National Database & Registration Authority), Government of Pakistan
+0227	58	Anderson Frey (1), Rogério Santarrosa (2)	1. University of Rochester, 2. Insper Institute of Education and Research
+0228	59	Ángela Fonseca Galvis, Luis Carlos Reyes	Pontificia Universidad Javeriana
+0229	60	Leire Rincón García	Humboldt University
+0230	229	Andy Harris (1), Rabia Malik (2)	1. New York University Abu Dhabi, 2. University of Essex
+0231	260	Lauren Honig (1), Adam Harris (2), Ellen Lust (3)	1. Boston College, 2. University College London, 3. University of Gothenburg
+0232	198	Vicente Valentim	Nuffield College, University of Oxford
+0233	206	Adéla Blažková	Charles University
+0234	50	A. Maurits van der Veen	William & Mary
+0235	51	Christophe Crombez (1,2), Fernando Martin Espejo (3)	1. Professor of Political Economy, KU Leuven, 2. Senior Research Scholar, Stanford University, 3. Doctoral Candidate, KU Leuven
+0236	52	Jiaqi Zheng	Hitotsubashi University
+0237	54	Stefano Costalli (1), Daniele Guariso (2), Patricia Justino (3), Andrea Ruggeri (4)	1. University of Florence, 2. The Alan Turing Institute, 3. United Nations University, 4. University of Oxford
+0238	56	Thies Niemeier	University of Konstanz
+0239	57	Valentin Lang (1), Stephan Schneider (2)	1. University of Mannheim, 2. ETH Zurich
+0240	58	Tiago Peterlevitz	Yale University
+0241	59	Michael Becher (1), Daniel Stegmueller (2)	1. IE University, 2. Duke University
+0242	227	Anna Clemente	European University Institute
+0243	229	Aina Gallego (1), Didac Queralt (2), Ana Tur-Prats (3)	1. Barcelona University, 2. Yale, 3. University of California at Merced
+0244	260	Sanghamitra Bandyopadhyay (2), Elliott Green (1)	1. London School of Economics, 2. Queen Mary, University of London
+0245	198	David Andersen	Durham University
+0246	206	Ala' Alrababa'h	Immigration Policy Lab, ETH Zurich and Stanford University, Center for Comparative and International Studies, ETH Zurich
+0247	50	Kristijan Fidanovski	Department of Social Policy and Intervention, University of Oxford
+0248	51	Albana Shehaj	University of Michigan
+0249	52	Cristina Monzer, Stefan Geiss	Norwegian University of Science and Technology
+0250	54	Sergi Martínez (1), Giacomo Lemoli (2)	1. European University Institute, 2. New York University
+0251	55	Nils-Christian Bormann (1), Simon Hug (2)	1. Witten/Herdecke University, 2. University of Geneva
+0252	56	Leonhard Hummel	TU Munich
+0253	57	Eva Østergaard-Nielsen (1), Laurence Go (1), Nicolas Fliess (2), Irina Ciornei (3)	1. Department of Political Science, Universitat Autònoma de Barcelona, 2. Migration Studies
+University of Sussex, 3. Institut Barcelona d'Estudis Internacionals (IBEI)
+0254	58	Olga Gasparyan	Hertie School
+0255	227	nita rudra (1), S.P. Harish (2), Helen Milner (3)	1. Georgetown University, 2. William and Mary, 3. Princeton University
+0256	229	Katharina Pfaff	Wirtschaftsuniversität Wien
+0257	206	Joonbum Bae (1), YuJung Lee (2)	1. KDI School of Public Policy and Management, 2. Colorado State University
+0258	54	Caroline Brandt (1), Susanna Campbell (2), Laura Huber (3)	1. Uppsala University, 2. American University, 3. University of Mississippi
+0259	6	Frederik Hjorth	University of Copenhagen
+0260	14	Tom Louwerse, Rick van Well	Leiden University
+0261	61	Eleanor Knott	London School of Economics
+0262	62	Miguel Pereira (1), Nathalie Giger (2), Maria Perez (3), Kaya Axelsson (4)	1. University of Southern California, 2. University of Geneva, 3. University of Southern California, 4. University of Oxford
+0263	63	Alessio Albarello	University of Rochester
+0264	64	Carl Müller-Crepon	University of Oxford
+0265	65	Ole Jann (1), Christoph Schottmüller (2)	1. CERGE-EI, Charles University in Prague and Czech Academy of Sciences, 2. University of Cologne
+0266	66	Ray Block (1), Matt Golder (2), Sona Golder (3)	1. Pennsylvania State University, 2. Pennsylvania State University, 3. Pennsylvania State University
+0267	67	Ignacio Lago	Universitat Pompeu Fabra
+0268	216	Liran Harsgor (1), Michael Jankowski (2), Simon Otjes (3)	1. University of Haifa, 2. University of Oldenburg, 3. Leiden University
+0269	71	Natalia Garbiras-Diaz	European University Institute
+0270	72	Tom O'Grady (1), Andreas Wiedemann (2)	1. University College London, 2. Princeton
+0271	73	Simone Paci	Columbia University
+0272	230	Giorgio Malet, Stefanie Walter	University of Zurich
+0273	262	Abhit Bhandari (1), Erin York (2)	1. Temple University, 2. Vanderbilt University
+0274	261	Leonid Peisakhin (1), Didac Queralt (2)	1. New York University, Abu Dhabi, 2. Yale
+0275	6	Clint Claessen	University of Basel
+0276	14	Rick van Well	Leiden University
+0277	61	Marnie Howlett	University of Oxford
+0278	62	Julia Gray, Daniela Donno	University of Cyprus
+0279	64	Janina Beiser-McGrath (1), Sam Erkiletian (2), Nils Metternich (2)	1. Royal Holloway, 2. UCL
+0280	65	Patrick Le Bihan (1), Dimitri Landa (2), Catherine Hafer (2)	1. SciencesPo, Cevipof, 2. NYU, Wilf Family department of Politics
+0281	66	Stefanie Reher	University of Strathclyde
+0282	67	Anna-Sophie Kurella	Universität Mannheim, MZES
+0283	216	Jon H. Fiva, Oda Nedregård	BI Norwegian Business School
+0284	71	Thomas Robinson (1), Nelson Ruiz (2), Ezequiel Gonzalez-Ocantos (3)	1. Durham University, 2. University of Oxford, 3. University of Oxford
+0285	72	Matthias Haslberger, Mads Andreas Elkjaer, Ben Ansell	University of Oxford, Nuffield College and Department of Politics and International Relations
+0286	73	Matias Engdal Christensen	Aarhus University
+0287	230	Julia Partheymüller, David Brandl, Sylvia Kritzinger, Carolina Plescia	University of Vienna
+0288	262	Andy Harris (1), Daniel De Kadt (2)	1. New York University Abu Dhabi, 2. Independent
+0289	261	Mary A. Shiraef	University of Notre Dame
+0290	6	deniz aksoy	Washington University in St. Louis
+0291	14	Simone Wegmann	University of Potsdam
+0292	61	Martin Elff	Zeppelin University, Friedrichshafen
+0293	62	Patrícia Calca (1), Karsten Donnay (2), Sebastian Koehler (3)	1. ISCTE-IUL, Lisbon, 2. University of Zurich, 3. King's College London
+0294	63	Eunhyea Oh	University of Essex
+0295	64	Rachael McLellan	University of Glasgow
+0296	65	Benjamin Blumenthal	Paris School of Economics-EHESS
+0297	66	Malu Gatto (1), Anna Petherick (2)	1. University College London (UCL), 2. University of Oxford
+0298	67	Gonzalo Contreras	University of Oxford
+0299	216	Zachary Greene, Christine Sylvester	University of Strathclyde
+0300	71	Felipe Torres (1), Raymond Duch (1)	1. University of Oxford, 2. University of Oxford
+0301	73	Bastian Becker (1), Bruno Castanho Silva (2), Hanna Lierse (1)	1. University of Bremen, 2. University of Cologne
+0302	261	Giacomo Lemoli (1), Gloria Gennaro (2)	1. New York University, 2. ETH Zurich
+0303	262	Sarah Engler, Jelle Koedam	University of Zurich
+0304	62	Shusei Eshima (1), Yusaku Horiuchi (2), Shiro Kuriwaki (3), Daniel Smith (4)	1. Harvard University, 2. Dartmouth College, 3. Stanford University, 4. Columbia University
+0305	63	Christoph Mikulaschek	Harvard University
+0306	64	Heiko Giebler (1,2), Lukas Antoine (1), Rasmus Ollroge (1)	1. Frei Universität Berlin, 2. WZB Berlin Social Science Center
+0307	65	Hanno Hilbig	Harvard University
+0308	66	Roman-Gabriel Olar	Dublin City University
+0309	67	Levan Kakhishvili	Bamberg Graduate School of Social Sciences (BAGSS), University of Bamberg
+0310	216	Alberto de Leon	University of Strathclyde
+0311	72	Bilyana Petrova	Texas Tech University
+0312	73	Teresa Hummler, Paul Vierus, Conrad Ziller	Department of Political Science, University of Duisburg-Essen
+0313	230	Lisanne de Blok (1), Catherine de Vries (2)	1. Utrecht University, 2. Bocconi University
+0314	262	Sergiu Lipcean	Dublin City University
+0315	261	Altan Atamer	University of Connecticut
+0316	14	Rebecca Kittel	European University Institute
+0317	63	Reto Wüest	Department of Comparative Politics, University of Bergen
+0318	64	Felix Schilling, Benjamin C.K. Egerod, Mogens K. Justesen	Copenhagen Business School
+0319	65	Gloria Gennaro (1,2), Elliott Ash (1)	1. ETH Zurich, 2. Immigration Policy Lab
+0320	72	Federico Fuchs	London School of Economics and Political Science
+0321	73	Shir Raviv, Yotam Margalit	Tel-Aviv University
+0322	230	Andreas Goldberg (1), Lukas Hoffmann (2)	1. Norwegian University of Science and Technology (NTNU), 2. University of Amsterdam (ASCoR)
+0323	2	Ekrem Baser	NYU Abu Dhabi
+0324	76	Marko Klasnja (1), Grigore Pop-Eleches (2)	1. Georgetown University, 2. Princeton University
+0325	77	Sylvain Brouard (1), Benjamin Gerhard Engst (2), Thomas Gschwend (3), Christoph Hönnige (4)	1. Sciences Po, 2. University of Konstanz, 3. University of Mannheim, 4. Leibniz University Hannover
+0326	78	Sergio Ascencio (1), Han Il Chang (2), Gabriella Rivera (3)	1. University of Essex, 2. Kookmin University, 3. University of New Mexico
+0327	79	Pola Lehmann	WZB Berlin Social Science Center
+0328	80	Tinghua Yu (1), Stephane Wolton (2)	1. Birkbeck, University of London, 2. the London School of Economics and Political Science
+0329	81	Charles 1, William Marx	Dartmouth College
+0330	82	Jasmin König	University of Hamburg
+0331	83	Paul Meiners	University of Münster
+0332	84	Meysam Alizadeh (1), Fabrizio Gilardi (2), Emma Hoes (1)	1. Postdoctoral Research Fellow at the Department of Political Science, University of Zurich, 2. Professor of Policy Analysis at the Department of Political Science, University of Zurich
+0333	86	Maiken Røed (1), Hanna Bäck (1), Royce Carroll (2)	1. Lund University, 2. University of Essex
+0334	264	Babak RezaeeDaryakenari	Leiden University
+0335	88	Leire Rincon Garcia	Humboldt University
+0336	265	Adrian del Rio (1), Masaaki Higashijima (2)	1. Humboldt University, 2. Tohoku University
+0337	232	Alon Yakter	Tel Aviv University
+0338	233	Lotte Hargrave	University College London
+0339	2	Gabriel Leon-Ablan	King's College London
+0340	76	Milan Svolik	Yale University
+0341	77	David Grundmanns	University of Mannheim
+0342	79	Jan Schwalbach, Ebru Ece Özbey	University of Cologne
+0343	80	John Patty (2), Ian Turner (1)	1. Yale University, 2. Emory University
+0344	81	Sebastian Block (1), Martin Gross (1), Dominic Nyhuis (2), Jan Velimsky (1)	1. LMU Munich, 2. University of North Carolina at Chapel Hill
+0345	82	Michal Ovadek (1), Joshua Fjelstul (2)	1. University of Gothenburg, 2. University of Geneva
+0346	83	Constantin Kaplaner, Maximilian Haag, Steffen Hurka	Geschwister Scholl Institute of Political Science, LMU Munich
+0347	84	Simon Munzert (1), Richard Traunmüller (2)	1. Hertie School, 2. University of Mannheim
+0348	86	Garret Binding, Jelle Koedam, Marco Steenbergen	University of Zurich
+0349	264	Sirianne Dahlum (1), Marianne Dahl (2), Hanne Fjelde (3)	1. University of Oslo, 2. Peace Research Institute Oslo, 3. Uppsala University
+0350	87	Meri Dankenbring (1), Constantin Ruhe (2), Iris Volg (1)	1. PhD Researcher, Institute of Political Science, Faculty of Social Sciences, Johann Wolfgang Goethe University
+Frankfurt am Main, Germany, 2. Assistant Professor, Institute of Political Science, Faculty of Social Sciences, JohannWolfgang Goethe University
+Frankfurt am Main, Germany
+0351	88	Jonathan Chapman	NYUAD, University of Bologna
+0352	265	Roman-Gabriel Olar	Dublin City University
+0353	232	Nestor Castaneda	University College London
+0354	233	Mirya Holman (1), Constantine Boussalis (2), Travis Coan (3)	1. Tulane University, 2. Trinity College Dublin, 3. University of Exeter and Exeter Q-Step Centre
+0355	2	Peter Schram (1), Brenton Kenkel (2)	1. Vanderbilt Department of Political Science, 2. Vanderbilt Department of Political Science
+0356	76	Alexander Wuttke (1), Florian Foos (1)	1. Mannheim Centre for European Social Research, 2. London School of Economics
+0357	77	Sivaram Cheruvu (1), Amanda Driscoll (2), Jay Krehbiel (3), Michael Nelson (4)	1. University of Texas at Dallas, 2. Florida State University, 3. West Virginia University, 4. Pennsylvania State University
+0358	78	Seonwoo Yoon, Nara Park	Yonsei University, Republic of Korea
+0359	79	Martin Ejnar Hansen	Brunel University London
+0360	80	Benjamin Ogden	Texas A&M University
+0361	81	Alona Dolinsky (1), Martijn Schoonvelde (1), Mariken A.C.G. van der Velden (2)	1. University College Dublin, 2. Vrije Universiteit Amsterdam
+0362	82	Tanya Bagashka, Lydia Brashear Tiede	University of Houston
+Department of Political Science
+0363	83	Adriana Bunea, Idunn Nørbech	University of Bergen
+0364	84	Andrew Guess (1), Will Schulz (1), Pablo Barberá (2), Simon Munzert (3), JungHwan Yang (4)	1. Princeton University, 2. University of Southern California, 3. Hertie School, 4. University of Illinois at Urbana-Champaign
+0365	86	Theresa Gessler (1), Natasha Wunsch (2,3)	1. University of Zurich, 2. ETH Zurich, 3. Sciences Po
+0366	87	Christian Oswald	Trinity College Dublin
+0367	264	Noah Buckley	Higher School of Economics; Trinity College Dublin
+0368	265	Magnus Bergli Rasmussen	University of Oslo
+0369	88	Andreas Wiedemann	Princeton University
+0370	232	Matias Engdal Christensen (1), Peter Thisted Dinesen (2,3), Kim Mannemar Sønderskov (1)	1. Aarhus University, 2. University College London, 3. University of Copenhagen
+0371	233	Vin Arceneaux (1), Bert Bakker (2), Johanna Dunaway (3)	1. Sciences Po Paris, 2. University of Amsterdam, 3. Texas A&M University
+0372	2	Peter Schram (1), Andrew Coe (1)	1. Vanderbilt Department of Political Science, 2. Vanderbilt Department of Political Science
+0373	76	Monika Nalepa, Ipek Cinar	University of Chicago
+0374	77	Silje Synnøve Lyder Hermansen (1), Urska Sadl (2)	1. University of Copenhagen, 2. European University Institute
+0375	78	Ana Weeks	University of Bath
+0376	79	Stefan Müller (1), Naofumi Fujimura (2)	1. University College Dublin, 2. Kobe University
+0377	80	Jessica Sun (1), Scott Tyson (2)	1. Emory University, 2. University of Rochester
+0378	81	Hauke Licht (1), Fabienne Lind (2)	1. University of Zurich, Department of Political Science, 2. University of Vienna , Department of Communication
+0379	83	Idunn Nørbech	University of Bergen, Department of Comparative Politics
+0380	84	James Cross, Derek Greene, Stefan Müller, Martijn Schoonvelde	University College Dublin
+0381	86	Thiago M. Q. Moreira	Texas A&M University
+0382	87	Carl Müller-Crepon (1), Guy Schvitz (2), Lars-Erik Cederman (2)	1. University of Oxford, 2. ETH Zurich
+0383	264	Vishnu Varatharajan	PhD Student, Graduate Institute of International and Development Studies, Geneva
+0384	265	Manuel Vogt	University College London
+0385	88	Ekaterina Borisova (1), Denis Ivanov (1), Koen Schoors (2)	1. National Research University Higher School of Economics, 2. Ghent University
+0386	232	Bilyana Petrova	Texas Tech University
+0387	233	Emma Turkenburg (1), Ine Goovaerts (1), Sofie Marien (1), Victoria Vdovychenko (2)	1. KU Leuven, Belgium, 2. Borys Grinchenko Kyiv University & KU Leuven
+0388	2	Livio Di Lonardo (1), Jessica Sun (2), Scott Tyson (3)	1. Bocconi University, 2. Emory University, 3. University of Rochester
+0389	77	Brad Epperly	University of British Columbia Okanagan
+0390	78	Kyuwon Lee, Elisa Wirsching, Hye Young You	New York University
+0391	79	Wang Leung Ting	London School of Economics and Political Science
+0392	80	Tara Slough (1), Scott Tyson (2)	1. New York University, 2. University of Rochester
+0393	82	Haakon Gjerløw (1), Øyvind Stiansen (2)	1. Peace Research Institute Oslo (PRIO), 2. University of Oslo
+0394	84	William Allen	University of Oxford
+0395	86	Christine Sylvester (1), Zachary Greene (1), Nikoleta Yordanova (2), Anastasia Ershova (2), Aleksandra Khokhlova (2)	1. University of Strathclyde, 2. Leiden University
+0396	264	Fabio Ellger	WZB Berlin Social Science Center
+0397	88	Alberto Parmigiani (1), Valentino Larcinese (2)	1. LSE, 2. STICERD
+0398	232	Patrícia Calca	ISCTE-IUL,Lisbon
+0399	233	Luke Coughlan	Royal Holloway University of London
+0400	264	Lotem Halevy	University of Pennsylvania
+0401	89	Patrick Diamond	QMUL
+0402	90	Michal Gulczynski	Bocconi University, Department of Social and Political Sciences
+0403	91	Jan Boesten (1), Jonathan Lewis (2), Yuichi Kubota (3), Naoko Matsumura (4), Kazuhiro Obayashi (2)	1. University of Oxford, 2. Hitotsubashi University, 3. Nihon University, 4. Kobe University
+0404	92	Tobias Burst, Christoph Ivanusch, Lisa Zehnter	WZB Berlin Social Science Center
+0405	93	Ameetosri (Amy) Basu	Yale University
+0406	96	Samuel Johnston	Trinity College Dublin
+0407	97	Mirko Wegemann	European University Institute
+0408	98	Christoph Valentin Steinert	University of Mannheim
+0409	99	Mehmet Erdem Arslan	University of Essex
+0410	100	Alessia Aspide	Leiden University
+0411	101	Guillem Amatller Dómine	Universitat Pompeu Fabra, IBEI
+0412	266	Natasha Wunsch (1,3), Theresa Gessler (2)	1. Center for Comparative and International Studies, ETH Zurich, 2. Center for Comparative and International Studies, University of Zurich, 3. Sciences Po, Centre d'études européennes et de politiques comparée
+0413	102	Mallory Compton (1), Andrew Philips (2)	1. Texas A&M University, 2. University of Colorado, Boulder
+0414	237	Silke Goubin (1), Peter Egge Langsæther (2), Atle Haugsgjerd (3)	1. HIVA - KU Leuven, 2. University of Oslo, 3. Institute for Social Research, Oslo
+0415	238	Philippe Mongrain	Université de Montréal
+0416	203	Svenja Krauss (1), Constantin Wurthmann (2)	1. University of Vienna, 2. GESIS - Leibniz-Institute for the Social Sciences
+0417	89	Mattia Guidi (1), Gianni Del Panta (2)	1. University of Siena, 2. Scuola Normale Superiore
+0418	90	EZGI SIIR KIBRIS	University of Rochester
+0419	92	Anna-Sophie Kurella	Universität Mannheim, MZES
+0420	93	Soenke Ehret	HEC Lausanne
+0421	94	Roland Kappe	University College London
+0422	96	Violeta Haas	Humboldt-Universität zu Berlin
+0423	97	Elisabetta Girardi	University of Mannheim
+0424	98	Naz Avdan (1), Naji Bsisu (2), Amanda Murdie (3)	1. University of Kansas, 2. Maryville College, 3. University of Georgia
+0425	99	Nori Katagiri	Saint Louis University
+0426	100	Matthew diGiuseppe (1), Kathleen Brown (1), Patrick Shea (2)	1. Leiden University, 2. University of Houston
+0427	266	Natasha Wunsch (1,2), Marc S. Jacob (1), Laurenz Derksen (1)	1. Center for Comparative and International Studies, ETH Zurich, 2. Sciences Po, Centre d'études européennes et de politique comparée
+0428	101	Šimon Trlifaj	Central European University
+0429	102	Paul Marx, Julian Bank	University of Duisburg-Essen
+0430	237	Tom van der Meer (1), Laura Mulder (1), Pedro Magalhaes (2)	1. University of Amsterdam, 2. University of Lisboa
+0431	238	Shaun Bowler (1), Jack Vowles (2)	1. UC Riverside, 2. Victoria University of Wellington
+0432	239	Toni Rodon (1), Marc Guinjoan (2)	1. Universitat Pompeu Fabra, 2. Universitat Oberta de Catalunya
+0433	203	Ida Hjermitslev	University of Vienna, Department of Government
+0434	89	Guenther Sandner	Institute Vienna Circle
+University of Vienna
+0435	90	Anja Vojvodic	City University of New York
+0436	91	Haakon Gjerløw (1), Lise Rakner (2), Øyvind Stiansen (3)	1. Peace Research Institute Oslo, 2. University of Bergen, 3. University of Oslo
+0437	92	Andreas Küpfer, Denis Cohen	University of Mannheim
+0438	93	David Marshall, Patrick Bernhagen	University of Reading
+0439	94	Chendi Wang (1), Abel Bojar (1), Ioana-Oana Oana (1), Zbigniew Truchlewski (2)	1. European University Institute, 2. London School of Economics
+0440	96	Werner Krause (1), Miku Matsunaga (2)	1. University of Vienna, 2. University of Tokyo
+0441	97	Jonathan Slapin (1), Dominik Duell (3), Lea Kaftan (5), Sven-Oliver Proksch (2), Christopher Wratil (4)	1. University of Zurich, 2. University of Cologne, 3. University of Innsbruck, 4. University of Vienna, 5. University of Witten/Herdecke
+0442	98	Jamie Gruffydd-Jones	University of Kent
+0443	99	Dumitru Minzarari	Stiftung Wissenschaft und Politik (German Institute for International and Security Affairs)
+0444	266	Byong-kuen jhee	Chosun University
+0445	101	Matthias Haslberger	University of Oxford, Nuffield College and Department of Politics and International Relations
+0446	102	Massimo Pulejo	New York University
+0447	237	Alexander Yeandle (1), James Maxia (2)	1. London School of Economics and Political Science, 2. University of Oxford
+0448	238	Elina Zorina	Leiden University
+0449	239	Diane Bolet (1), Fergus Green (2), Mikel González-Eguino (3)	1. University of Zurich
+Durham University, 2. UCL, 3. Basque Centre for Climate Change
+0450	203	Theres Matthieß (1), Christian Stecker (2)	1. Mannheim Centre for European Social Research (MZES), 2. TU Darmstadt
+0451	89	Peter Nedergaard	University of Copenhagen
+0452	90	Cornelius Erfort	Humboldt-Universität zu Berlin
+0453	91	Verena Kunz	University of Mannheim
+0454	92	Daniel Saldivia Gonzatti (1), Lea Kaftan (2), Leonce Röth (3)	1. WZB Berlin Social Science Center, 2. Witten/Herdecke University, 3. University of Cologne
+0455	93	Joshua Cova	Herite School, Humboldt University, Berlin
+0456	94	Mariana Carmo Duarte	European University Institute
+0457	97	Matthias Avina	University of Pittsburgh
+0458	98	Cleo O'Brien-Udry	Yale University
+0459	99	Lucas Hellemeier	Graduate School of North American Studies, John F. Kennedy Institute, Freie Universität Berlin, Germany
+0460	100	Yacine Allam	CESAER UMR1041, INRAE, Institut Agro, Université Bourgogne Franche-Comté, F-21000, Dijon, France
+0461	266	Gabor Simonovits	Central European University
+0462	101	Sebastian Ziaja (1), David Sebudubudu (2)	1. GESIS – Leibniz Institute for the Social Sciences, 2. University of Botswana
+0463	102	Sirianne Dahlum	University of Oslo
+0464	237	Francesc Amat, Andreu Arenas, Albert Falcó-Gimeno, Jordi Muñoz	University of Barcelona
+0465	238	Jean-François Daoust (1), Miroslav Nemcok (2), Philipp Broniecki (2), Peter John Loewen (3)	1. University of Edinburgh, 2. University of Oslo, 3. University of Toronto
+0466	239	Noam Himmelrath	University of Mannheim
+0467	203	Jan Berz	Trinity College Dublin
+0468	89	Georg Menz	Old Dominion University
+0469	100	Jessica Gottlieb (1), Florian Hollenbach (2), Thiago Moreira (3)	1. Copenhagen Business School, 2. Hobby School of Public Affairs
+University of Houston, 3. Department of Political Science 
+Texas A&M University
+0470	102	Ana Isabel López García (1), Barry Maydom (2), Sarah Berens (3)	1. Maastricht University, 2. Birkbeck, University of London, 3. University of Innsbruck
+0471	237	Marie-Lou Sohnius, Thomas Gschwend	University of Mannheim
+0472	238	Paul Vierus, Conrad Ziller	University of Duisburg-Essen, Germany
+0473	100	Ignacio Jurado (1), Alexander Kuo (2)	1. Carlos III University, 2. Oxford University
+0474	268	Rafaela Dancygier (1), Sirus H. Dehdari (2,5), David D. Laitin (3), Moritz Marbach (4), Kåre Vernby (5)	1. Princeton University, 2. Uppsala University, 3. Stanford University, 4. Texas A&M, 5. Stockholm University
+0475	103	Michal Parizek, Jakub Tesař	Charles University, Faculty of Social Sciences, Institute of Political Studies
+0476	104	Stepan Jurajda (1), Felix Roesel (2), Jakub Grossmann (1)	1. CERGE-EI, 2. TUB
+0477	269	Katerina Tertytchnaya, Aleksandra Rumiantseva, Yulia Kuzmina, Madeleine Tiratsoo, Yana Oltan	UCL
+0478	106	Anastasia Ershova, Aleksandra Khokhlova, Nikoleta Yordanova	Institute of Political Science, Leiden University
+0479	108	Jaemin Shim (1), Mahmoud Farag (2)	1. Hong Kong Baptist University, 2. University of Zurich
+0480	109	Sebastian Adrian Popa (1), Brian Boyle (1), Zoltán Fazekas (2)	1. Newcastle University, 2. Copenhagen Business School
+0481	110	Jan Vogler	University of Konstanz
+0482	111	NAZLI AVDAN (1), Andrew Rosenberg (2)	1. UNIVERSITY OF KANSAS (KU), 2. University of Florida
+0483	112	Michael Dorsch (1,2), Anand Murugesan (1)	1. Central European University (Vienna), 2. Democracy Institute (Budapest)
+0484	113	Stephane Wolton (1,2), Samira Gasimova (1), Giuseppe Palladino (1), Riccardo Paccioretti (1), Pieter Scribante (1)	1. LSE, 2. CEPR
+0485	234	Peter Egge Langsæther, Carl Henrik Knutsen	University of Oslo
+0486	114	Allison Bugenis	Binghamton University
+0487	235	Daniel Bischof	Aarhus University, University of Zurich
+0488	115	Nerea Gandara Guerra (1), Vicente Valentim (1)	1. European University Institute, 2. Nuffield College, University of Oxford
+0489	236	Eefje Steenvoorden	University of Amsterdam
+0490	103	Musashi Harukawa (1,2), Lucy Barnes (2)	1. Department of Politics and International Relations, University of Oxford, 2. Department of Political Science, University College London
+0491	268	Klaudia Wegschaider	University of Oxford
+0492	269	Kristina Pedersen	PhD Fellow at the Department of Political Science, University of Copenhagen
+0493	106	Jan Mazač	Faculty of Social sciences, Charles University
+0494	107	Olga Gasparyan (1), Elena Sirotkina (2), Michelle Torres (3)	1. Hertie School, 2. University of North Carolina at Chapel Hill, 3. Rice University
+0495	108	Chitralekha Basu	Cologne Center for Comparative Politics, University of Cologne
+0496	109	Lucas Leemann, Sarah Engler	University of Zürich
+0497	110	David Sylvan	Graduate Institute of International and Development Studies
+0498	111	Christian Oswald	Trinity College Dublin
+0499	112	Bastian Becker (1), Dean Dulay (2)	1. University of Bremen, 2. Singapore Management University
+0500	113	César Fuster	University of Oxford
+0501	114	Charlotte Luckner	Norwegian University of Science and Technology
+0502	234	Melanie Dietz, Sigrid Roßteutscher	Goethe-University Frankfurt am Main
+0503	235	Francesco Colombo	European University Institute, Aarhus University
+0504	115	Tarik Abou-Chadi (1), Diane Bolet (2), Sergi Pardos-Prado (3)	1. University of Oxford, 2. University of Zurich, 3. University of Glasgow
+0505	236	Daniel Cruz	University of Copenhagen
+0506	103	Samuel Frederick	Columbia University Department of Political Science
+0507	268	Mateo Vasquez-Cortes (1), Antonella Bandiera (1), Stephanie Zonszein (2), Abraham Aldama (2)	1. ITAM - Instituto Tecnologico Autonomo de Mexico, 2. University of Pennsylvania
+0508	269	Edward Goldring	University of York
+0509	104	Ivan Pepic	Department of Political Science and International Relations, University of Geneva, Switzerland
+0510	106	Eleanor Knott	London School of Economics
+0511	107	Kirill Zhirkov	University of Virginia
+0512	108	Martin Okolikj	University of Bergen
+0513	109	RYAN BAKKER (1), Dave Armstrong (2), Seth Jolly (3), Jonathan Polk (4)	1. University of Essex, 2. University of Western Ontario, 3. Syracuse University, 4. Lund University
+0514	110	David Weyrauch	University of Mannheim
+0515	111	Maiyoraa Jeyabraba, Brian Phillips	University of Essex
+0516	112	Antonella Bandiera (1), Lelys Dinarte (2), Juan Miguel Jimenez (3), Sandra Rozo (2), Micaela Sviatschi (4)	1. ITAM, 2. Development Research Group, 3. University of Chicago, 4. Princeton University
+0517	113	Sergei Mikhalishchev (1), Vladimir Novak (2)	1. CERGE-EI, 2. Bocconi University
+0518	114	Helena Heberer	University of Cologne
+0519	234	Rosie Campbell (1), Will Jennings (2), John Kenny (3), Andra Roescu (2), Rosalind Shorrocks (4), Stuart Smedley (2)	1. King's College London, 2. University of Southampton, 3. University of East Anglia, 4. University of Manchester
+0520	115	Paula Rettl, Chiara Allegri, Simone Cremaschi, Catherine De Vries	Bocconi University
+0521	235	Mwita Chacha	University of Birmingham
+0522	236	Barbara Vis	Utrecht University
+0523	103	José Miguel Rojo Martínez, Claudia Mayordomo Zapata	University of Murcia
+0524	104	Sukayna Younger-Khan	WZB Social Science Center Berlin, Freie Universitat Berlin
+0525	269	Georgiy Syunyaev (1,2), Anton Shirikov (3)	1. WZB Berlin Social Science Center, 2. ICSID, HSE University, 3. University of Wisconsin-Madison
+0526	106	Fabio Franchino (1), Marta Migliorati (2,3), Giovanni Pagano (1), Valerio Vignoli (1)	1. Università degli Studi di Milano, 2. European University Institute, 3. University of Malta
+0527	107	Franziska Pradel (1), Jan Zilinsky (1), Spyros Kosmidis (2), Yannis Theocharis (1)	1. Technical University of Munich, 2. University of Oxford
+0528	108	Maarja Lühiste (1), Zachary Greene (2), Jae-Jae Spoon (3), Louise Luxton (1)	1. Newcastle University, 2. University of Strathclyde, 3. University of Pittsburgh
+0529	109	Michalis Moutselos	University of Cyprus
+0530	110	Nuno Morgado	Department of Geography, Geoeconomics, and Sustainable Development. Corvinus University of Budapest.
+0531	111	Max Schaub (1), Eylem Kanol (2)	1. University of Hamburg, 2. WZB Berlin Social Science Center
+0532	112	Sarah Berens	University of Innsbruck
+0533	113	Jan Gromadzki (1,2), Katarzyna Sałach (3), Michał Brzeziński (3)	1. SGH Warsaw School of Economics, 2. Institute for Structural Research, 3. University of Warsaw
+0534	234	Marta Fraile (1), Dani Marinova (2)	1. Instituto de Políticas y Bienes Públicos (CSIC), 2. UAB
+0535	235	Quintin Beazer (3), Noah Buckley (2), Ora John Reuter (1)	1. University of Wisconsin-Milwaukee, 2. Trinity College Dublin, 3. Florida State University
+0536	115	Susannah Hume (1), Florian Foos (2)	1. King's College London, 2. London School of Economics and Political Science
+0537	236	Arndt Leininger (1), Lukas Rudolph (2)	1. Chemnitz University of Technology, 2. LMU Munich
+0538	268	Zoila Ponce de Leon (1), Gabriele Magni (2)	1. Washington and Lee University, 2. Loyola Marymount University
+0539	107	Cristina Monzer, Stefan Geiss, Toril Aalberg	Norwegian University of Science and Technology
+0540	108	Nikandros Ioannidis	Universitat Pompeu Fabra
+0541	109	Toni Rodon (1), Marc Guinjoan (2)	1. Universitat Pompeu Fabra, 2. Universitat Oberta de Catalunya
+0542	110	Alex Weisiger	University of Pennsylvania
+0543	111	Avishay Ben Sasson-Gordis (1), Alon Yakter (2)	1. Harvard University, 2. Tel Aviv University
+0544	115	Violeta Haas	Humboldt-Universität zu Berlin
+0545	235	Đorđe Milosav	Trinity College Dublin
+0546	270	Davide Morisi	Collegio Carlo Alberto
+0547	271	Thomas Plümper (1), Eric Neumayer (2)	1. Vienna University of Economics
+Welthandelsplatz 1
+1020 Vienna
+Austria, 2. London School of Economics
+Department of Geography & Environment
+Houghton St, London WC2A 2AE
+UK
+0548	117	Solveig Bjørkholt	University of Oslo
+0549	118	Georgios Samaras	King's College London
+0550	119	Fabio Torreggiani (1), Bernhard Clemm von Hohenberg (2)	1. University of Milan, 2. University of Amsterdam
+0551	120	bernard grofman, daniel bochsler, Miriam Hanni	University of California, Irvine
+0552	121	Johanna Bjarnadottir	Humboldt-Universität zu Berlin
+0553	123	Natalia Umansky	University College Dublin
+0554	124	Henning Finseraas, Ole Henning Nyhus	Norwegian University of Science and Technology
+0555	125	Odelia Oshri, Shaul Shenhav, Amsalem Eran	Hebrew University of Jerusalem
+0556	126	Selim Erdem Aytaç, Ali Çarkoğlu	Koç University
+0557	127	Stuart Fox	Brunel University London
+0558	128	Maria Grasso (1), Sotirios Karampampas (2)	1. Queen Mary University of London, 2. GESIS-Leibniz Institution for the Social Sciences
+0559	129	Alexander De Juan (1), Felix Haass (2), Christian Gläßel (3), Adam Scharpf (4)	1. University of Osnabrück, 2. University of Oslo, 3. Hertie School, 4. German Institute of Global and Area Studies (GIGA)
+0560	130	Peter Bils (2), Federica Izzo (1)	1. UCSD, 2. Vanderbilt
+0561	270	Patrick Le Bihan (1), Sylvain Brouard (1), Christoph Hönnige (2)	1. SciencesPo, Cevipof, 2. Leibniz University, Hannover
+0562	271	Carl Henrik Knutsen, Palina Kolvani	University of Oslo
+0563	117	Maria Uttenthal	Hertie School
+0564	118	Clara Fauli Molas	Trinity College Dublin
+0565	119	Alena Kluknavska (1), Olga Eisele (2)	1. Masaryk University, 2. University of Vienna
+0566	120	Zack Grant, Geoff Evans	Nuffield College, University of Oxford
+0567	121	Simon Otjes (1,2), David Willumsen (3)	1. Leiden University, 2. Groningen University, 3. Innsbruck University
+0568	123	Nathan Timbs, Willow Kreutzer	University of Iowa
+0569	124	Aina Gallego (1), Alexander Kuo (2), Nicolas Bicchi (3)	1. Universitat de Barcelona, 2. Oxford University, 3. Universitat Pompeu Fabra
+0570	125	Elena Baro	Norwegian University of Science and Technology
+0571	240	Ekrem Baser	NYU Abu Dhabi
+0572	126	Markus Kollberg (1), Benjamin Lauderdale (1), Christopher Wratil (2)	1. University College London, 2. University of Vienna
+0573	241	Bernhard Clemm von Hohenberg, Anselm Hager	University of Amsterdam
+0574	127	Andreas Goldberg (1), Pascal Sciarini (2)	1. Norwegian University of Science and Technology (NTNU), 2. University of Geneva
+0575	128	Giacomo Salvarani	Università di Urbino Carlo Bo
+0576	129	David Carter (1), Austin Wright (2), Luwei Ying (1)	1. Washington University in St. Louis, 2. University of Chicago
+0577	270	Søren Etzerodt, Leonhard Hummel	TUM
+0578	271	Amir Freund, Yael Shomer	Tel Aviv University
+School of Political Science, Government, and International Relations
+0579	117	Laura Bronner (1), Drew Dimmery (2), Dominik Hangartner (1)	1. ETH Zurich, 2. University of Vienna
+0580	118	Jonne Kamphorst (1), Tarik Abou-Chadi (2)	1. European University Institute, 2. University of Oxford
+0581	120	Odelia Oshri (1), Reut itzkovitch-Malka (2)	1. The Hebrew university of Jerusalem, 2. The Open University of Israel
+0582	121	Francisca Castro (1), Renata Retamal (2)	1. Humboldt University, 2. Universidad de Chile
+0583	123	Anita Gohdes (1), Nadiya Kostyuk (2)	1. Hertie School, 2. Georgia Institute of Technology
+0584	124	Magnus Rasmussen	1
+0585	125	Ladislav Cabada, Petr Körfer	Metropolitan University Prague
+0586	240	Andreas Dür, Robert Huber, Yannick Stiller	University of Salzburg
+0587	241	Michele Griessmair, Bernhard Kittel	Department of Economic Sociology, University of Vienna
+0588	126	Natalia Garbiras-Díaz (1), Loreto Cox (2)	1. European University Institute, 2. Pontificia Universidad Católica de Chile
+0589	127	Andreas Videbæk Jensen, Simon Calmar Andersen	Department of Political Science, Aarhus University
+0590	128	Noam Lupu	Vanderbilt University
+0591	129	Alejandro Lopez Peceño	New York University
+0592	130	Barton Lee	Magdalen College, The University of Oxford.
+0593	271	Jonas Schmid (1), Jacob Nyrup (1,2)	1. University of Oslo, 2. University of Oxford
+0594	117	Lion Behrens	University of Mannheim
+0595	119	Damian Trilling	Universiteit van Amsterdam
+0596	120	Julia Schulte-Cloos	University of Munich (LMU)
+0597	123	Alice Iannantuoni (1), Simone Dietrich (1), Bernhard Reinsberg (2)	1. University of Geneva, 2. University of Glasgow
+0598	124	Thomas Kurer (1,2), Nikolas Schoell (3)	1. University of Konstanz, 2. University of Zurich, 3. Universitat Pompeu Fabra
+0599	240	Nikitas Konstantinidis (1), Bernhard Reinsberg (2)	1. IE University, School of Global & Public Affairs, 2. University of Glasgow
+0600	241	Sophia Hunger (1), Eylem Kanol (1), Daniel Saldivia Gonzatti (1), Swen Hutter (1,2)	1. WZB Berlin Social Science Center, 2. Free University of Berlin
+0601	127	Achim Prof Dr Goerres, Jonas Elis, Sabrina Jasmin PD Dr Mayer	University Duisburg-Essen
+0602	128	Henrik Andersson (1), Sirus Dehdari (2), Karl-Oskar Lindgren (1)	1. Uppsala University, 2. Stockholm University
+0603	129	Leonid Peisakhin, Joan Barceló	New York University--Abu Dhabi
+0604	130	Nikitas Konstantinidis	IE University, School of Global & Public Affairs
+0605	271	Sandra León, Amuitz Garmendia	Carlos III-Juan March Institute
+0606	117	Felipe Torres, Raymond Duch	University of Oxford
+0607	120	Marie Skutilová	Institute of Political Studies of the Faculty of Social Sciences of the Charles University (IPS FSS CU)
+0608	124	Alexander H. Trechsel, Mathilde M. van Ditmars	University of Lucerne
+0609	127	Ignacio Jurado (2), Joaquin Artes (1)	1. Complutense University, 2. Carlos III University
+0610	129	Ana Carolina Garriga, Brian Phillips	University of Essex
+0611	273	Sara Polo, Marius Radean	University of Essex
+0612	272	Andrea Fumarola	Ludwig Maximilian University (LMU) Munich
+0613	131	Simon Munzert (1), Sebastian Ramirez-Ruiz (1), Pablo Barberá (2), Andrew M. Guess (3), JungHwan Yang (4)	1. Hertie School, 2. Department of Political Science and International Relations, University of Southern California, 3. Department of Politics, Princeton University, 4. Department of Communication, University of Illinois at Urbana-Champaign
+0614	132	Elisa Deiss-Helbig (1), Isabelle Guinaudeau (2), Theres Matthieß (3)	1. University of Stuttgart, 2. Sciences Po Bordeaux, 3. Mannheim Centre for European Social Research (MZES)
+0615	133	Despina Alexiadou (1), Michael Aklin (1)	1. University of Strathclyde, 2. University of Pittsburgh
+0616	134	Denisa Kostovicova (1), Tolga Sinmazdemir (2), Vesna Popovski (1), Lanabi la Lova (1)	1. LSE, 2. SOAS
+0617	135	Callum Craig, Constantine Boussalis	Trinity College Dublin
+0618	136	Jeyhun Alizade (1), Fabio Ellger (2), Thomas Tichelbaecker (1), Marius Gruenewald (3)	1. Princeton University, 2. WZB Berlin Social Science Center, 3. European University Institute
+0619	137	Semih Cakir	Université de Montréal
+0620	138	Natalia Piskunova	Moscow State University
+0621	140	Mohammad Mohsin Hussain	University of Warwick
+0622	141	Stefan Sliwa Ruiz (1), Lukas Linsi (1), Pascal Jaupart (2)	1. University of Groningen, 2. The World Bank
+0623	142	Andreas Dür, Robert A. Huber, Gemma Mateo, Yannick Stiller	University of Salzburg
+0624	143	Sascha Riaz	Harvard University
+0625	144	Nils-Christian Bormann	Witten/Herdecke University
+0626	273	Moritz Schmoll (1), Wang Leung Ting (2)	1. Mohammed VI Polytechnic University, 2. London School of Economics and Political Science
+0627	272	Daniel McArthur, Jane Gingrich	Department of Politics and International Relations, University of Oxford
+0628	132	Denise Traber, Daniel Höhmann	University of Basel
+0629	133	Jonas Havstein Eriksen	University of Southern Denmark
+0630	134	javier lorenzo, Amuitz Garmendia Madariaga	Universidad Carlos III de Madrid
+0631	135	Alejandro Soler	University of Murcia
+0632	136	Corinna Kroeber	University of Greifswald
+0633	137	Matthew Bergman (1), Svenja Krauss (1), Maria Thürk (2)	1. University of Vienna, 2. University of Basel
+0634	138	Barry Hashimoto (1), Kevin W. Gray (2)	1. NYU Abu Dhabi, 2. Columbia University
+0635	139	Peter Schram	Vanderbilt Department of Political Science
+0636	140	Celestino Perez	United States Army War College
+0637	141	Costin Ciobanu, Aengus Bridgman	McGill University
+0638	143	Mathias Kruse	Department of Political Science, Aarhus University
+0639	144	Francesco Bromo	Texas A&M University
+0640	272	Cornelius Erfort, Lukas F. Stoetzer, Heike Klüver	Humboldt-Universität zu Berlin
+0641	273	Garret Binding	University of Zurich
+0642	131	Achim Goerres, Jan Karem Höhne, Jakob Kemper	University of Duisburg-Essen
+0643	132	Patrick Clasen	University of Duisburg-Essen
+0644	133	Christian Breunig (1), K. Jonathan Klüser (2)	1. University of Konstanz, 2. University of Zürich
+0645	134	Soledad Prillaman	Stanford University
+0646	135	Diane Bolet (1), Florian Foos (2)	1. University of Zurich
+Durham University, 2. London School of Economics and Political Science
+0647	136	Scott Siegel (1), Stuart Turnbull-Dugarte (2)	1. San Francisco State University, 2. University of Southampton, UK
+0648	137	Mariyana Angelova (1), Roni Lehrer (2), Nick Lin (3)	1. Central European University, Austria, 2. University of Mannheim, Germany, 3. Academia Sinica, Taiwan
+0649	138	Felix Schulte (1), Gene Carolan (2)	1. Heidelberg University, 2. Technical University Dublin
+0650	139	Bradley Smith	Assistant Professor, Vanderbilt University
+0651	140	Andrew Sanders	Texas A&M University San Antonio
+0652	141	Bilyana petrova (1), Aleksandra Sznajder Lee (2)	1. Texas Tech University, 2. University of Richmond
+0653	142	Adrian del Rio (1), Jennifer Gandhi (2), Allison Cuttner (3)	1. Center for Eastern European and International Studies, 2. Emory University, 3. University of Toronto
+0654	143	Ilona Lahdelma (1), Spyros Kosmidis (2)	1. Juan March Institute, Carlos III University, 2. University of Oxford
+0655	144	Katharine Aha	Southwestern University
+0656	272	Rachel Potter (1), Jan Vogler (2)	1. University of Virginia, 2. University of Konstanz
+0657	273	Felix Wiebrecht	The Chinese University of Hong Kong
+0658	131	Achim Goerres (1), Jakob Kemper (1), Jan Karem Höhne (1), Markus Tepe (2)	1. University of Duisburg-Essen, 2. University of Oldenburg
+0659	132	Tim Vlandas (1), David Weisstanner (2)	1. university of oxford, 2. Aarhus University
+0660	133	Samuel Kernell (2), Roger Larocca (3), Craig Volden (1), Alan Wiseman (4)	1. University of Virginia, 2. University of California, San Diego, 3. Oakland University, 4. Vanderbilt University
+0661	134	Mona Morgan-Collins (2), Dylan Potts (1)	1. European University Institute, 2. King's College London
+0662	135	Heidi Schulze	LMU Munich
+0663	136	Lawrence Rothenberg, Kevin Clarke	University Of Rochester
+0664	137	Mariken van der Velden (1), Maurits Meijers (2)	1. Vrije Universiteit Amsterdam, 2. Radboud University Nijmegen
+0665	138	Tarald Berge (1), Taylor St John (2), Øyvind Stiansen (3)	1. University of South-Eastern Norway, 2. University of St. Andrews, 3. University of Oslo
+0666	139	Livio Di Lonardo (1), Scott Tyson (2)	1. Bocconi University, 2. University of Rochester
+0667	142	Natascha Neudorfer (1), Tim Haughton (1), Emilia Zankina (2)	1. University of Birmingham, 2. Temple University Rome
+0668	143	Korinna O. Lindemann	Hertie School
+0669	273	Or Tuttnauer	Mannheimer Zentrum für Europäische Sozialforschung
+0670	131	Hannah Bucher	GESIS Leibniz-Institute for the social sciences
+0671	132	Mads Andreas Elkjær (1), Ben Ansell (1), Matthias Haslberger (1), Laure Bokobza (1), Asli Cansunar (2), Jacob Nyrup (3)	1. University of Oxford, 2. University of Washington, 3. University of Oslo
+0672	134	Alba Huidobro	Universitat Pompeu Fabra, Institut Barcelona d'Estudis Internacionals (IBEI)
+0673	137	Ida Hjermitslev (1), Svenja Krauss (1), Maria Thürk (2)	1. University of Vienna, 2. University of Basel
+0674	139	Livio Di Lonardo (1), Kerim Can Kavakli (1), Scott Tyson (2)	1. Bocconi University, 2. University of Rochester
+0675	143	Achim Prof Dr Goerres, Sabrina PD Dr Mayer, Jonas Elis, Dennis Christian Prof Dr Spies	University Duisburg-Essen
+0676	155	Bjørn Høyland, Philipp Broniecki	University of Oslo
+0677	149	Michal Gulczynski	Bocconi University, Department of Social and Political Sciences
+0678	275	Alberto de Leon	University of Strathclyde
+0679	157	Amanda Haraldsson (1,2), Karolina Koc-Michalska (2), Bruce Bimber (3)	1. European University Institute, 2. Audencia Business School, 3. University of California, Santa Barbara
+0680	158	Klaudia Wegschaider	University of Oxford
+0681	159	Jan Berz	Trinity College Dublin
+0682	160	Jan Karlas	Faculty of Social Sciences, Charles University
+0683	161	Mirek Tobiáš Hošman	University of Bologna, University of Paris
+0684	162	Juan Pablo González, Hye Young You	New York University
+0685	163	Ana Carolina Garriga, Muzhou Zhang	Department of Government, University of Essex
+0686	165	Jack Blumenau	UCL
+0687	166	Søren Damsbo-Svendsen	University of Copenhagen, Department of Political Science
+0688	244	Heike Klüver (1), Jan Stuckatz (1), Kai-Uwe Schnapp (2)	1. Humboldt-Universität zu Berlin, 2. Universität Hamburg
+0689	149	Simon Chauchard (1), Alyssa Heinze (2), Rachel Brulé (3)	1. Carlos 3 university, madrid, 2. Berkeley, 3. Boston University
+0690	156	Metin Koca	ERC postdoctoral researcher at Istanbul Bilgi University
+0691	275	Gloria Gennaro	ETH Zurich, Immigration Policy Lab
+0692	157	Björn Carré	University of Antwerp
+0693	158	Sílvia Claveria (1), Pedro Riera (2)	1. University Carlos III of Madrid, 2. University Carlos III of Madrid
+0694	159	Hans Noel (1), Gianluca Passarelli (2)	1. Georgetown University, 2. Sapienza University of Rome
+0695	160	Patrick Wagner	World Trade Institute, University of Bern
+0696	161	Mona Saleh	GIGA-German Institute for Global and Area Studies/Leuphana University Lüneburg
+0697	162	Jonghoon Lee (1), Amy Pond (2)	1. Texas A&M University, 2. Technical University of Munich
+0698	163	Brenda Van Coppenolle (1), Dominik Duell (2)	1. University of Essex, Department of Government, 2. University of Innsbruck, Department of Political Science
+0699	164	Eri Bertsou (1), Daniele Caramani (2), Jelle Koedam (1)	1. University of Zurich, 2. European University Institute
+0700	165	Nicolai Berk	Humboldt University Berlin
+0701	242	Lukas Antoine	Freie Universität Berlin
+0702	166	Dafni Kalatzi Pantera	University of Essex
+0703	244	Daniel Kovarek	Department of Political Science, Central European University
+0704	155	Svanhildur Thorvaldsdottir	Hertie School
+0705	149	Jens Wäckerle	Cologne Center for Comparative Politics, University of Cologne
+0706	275	Leo Ahrens (1), Frank Bandau (2)	1. Free University of Berlin, 2. University of Bamberg
+0707	156	Tom O'Grady (1), Miriam Sorace (2,3)	1. University College London, 2. University of Kent, 3. London School of Economics
+0708	157	Lena Huber (1), Martin Haselmayer (2)	1. University of Vienna, 2. University of Konstanz
+0709	158	Guido Tiemann	Institute for Advanced Studies, Vienna and University of Klagenfurt
+0710	159	Noam Titelman (1), Javier Sajuria (2)	1. London School of Economics and Political Science, 2. Queen Mary University London
+0711	160	Sara Mitchell	University of Iowa
+0712	161	Julia Gray, Raymond Hicks	Columbia University
+0713	162	César Fuster (1), Cesc Amat (2)	1. University of Oxford, 2. University of Barcelona
+0714	163	Patrick Bayer	University of Strathclyde
+0715	164	Felix Jäger	Mannheimer Zentrum für
+Europäische Sozialforschung (MZES), University of Mannheim
+0716	165	Gracia Brückmann (1), Patrick Belmont (2)	1. University of Bern, 2. Utah State University
+0717	242	Mirya Holman (1), Emily Farris (2)	1. Tulane University, 2. Texas Christian University
+0718	166	Silvia Pianta (1,3), Paula Rettl (2)	1. European University Institute, 2. Bocconi University, 3. RFF-CMCC European Institute on Economics and the Environment
+0719	244	Soenke Ehret	HEC Lausanne
+0720	155	Marta Hoffmann	Jagiellonian University
+0721	149	Kostanca Dhima	Texas A&M University
+0722	156	Ronja Sczepanski	ETH Zürich
+0723	275	Chitralekha Basu (1), Carles Boix (2), Jordi Muñoz (3), Sonia Giurumescu (4)	1. University of Cologne, 2. Princeton University, 3. University of Barcelona, 4. Stockholm University
+0724	157	Hauke Licht (1), Ronja Sczepanksi (2)	1. University of Zurich, Department of Political Science, 2. ETH Zurich, European Politics Research Group
+0725	158	Sandra León, Matthias Scantamburlo	Carlos III-Juan March Institute. Carlos III University.
+0726	159	Sona Golder (1), Raimondas Ibenskas (2), Allan Sikk (3)	1. Penn State University, 2. University of Bergen, 3. University College London
+0727	160	Kenneth Stiller	University of Oxford
+0728	161	Timon Forster	Freie Universität Berlin
+0729	163	Patrick Bayer (1), Jonas Bunte (2)	1. University of Strathclyde, 2. Vienna University of Economics and Business
+0730	164	Lena Schaffer, Zsuzsanna Magyar	University of Lucerne
+0731	165	Karsten Donnay (1), Felix Hamborg (2,3), Kim Heinser (2), Camille Lothe (1)	1. University of Zurich, 2. University of Konstanz, 3. Heidelberg Academy of Sciences and Humanities
+0732	242	Keith Smith (1), Adam Mayer (2), Julia Bognar (3)	1. ETH Zurich, 2. Michigan State University, 3. University of Toronto
+0733	166	Vally Koubi (1), Jan Jan Freihardt (1), Lukas Rudolph (2)	1. ETH Zurich, 2. LMU Munich
+0734	244	Jan Velimsky (1), Sebastian Block (1), Martin Gross (1), Dominic Nyhuis (2)	1. Ludwig-Maximilians-Universität München (LMU), Geschwister-Scholl-Institut of Political Science (GSI), 2. The University of North Carolina at Chapel Hill
+0735	149	Lasse Aaskoven (1), Benjamin Carl Krag Egerod (2), Frederik Kjøller Larsen (3)	1. University of Southern Denmark, 2. Copenhagen Business School, 3. University of Copenhagen
+0736	156	Aleksandra Khokhlova, Anastasia Ershova, Nikoleta Yordanova	Institute of Political Science, Leiden University
+0737	275	Anna Clemente (1), Giuliano Formisano (2)	1. European University Institute, 2. University of Oxford, Oxford Internet Institute
+0738	161	Katharina Fleiner, Alice Iannantuoni, Simone Dietrich	University of Geneva
+0739	163	Franziska Quoß (1), Quynh Nguyen (2)	1. IPE and Environmental Politics Group, ETH Zürich, 2. School of Politics & International Relations, Australian National University
+0740	164	Björn Bremer (1), Charlotte Cavaille (2), Lisanne de Block (3), Catherine de Vries (4)	1. Max Planck Institute for the Study of Societies, 2. University of Michigan, 3. Bocconi University, 4. Utrecht University
+0741	165	Mathias Osmundsen, Rasmus Skytte	Department of Political Science, Aarhus University
+0742	242	Vlastimil Havlik, Peter Spáč	Masaryk University
+0743	166	António Valentim	Humboldt-Universität zu Berlin
+0744	244	Miquel Pellicer, Eva Wegner, Leticia Barbabela	Philipps University Marburg
+0745	150	Sean Freeder (1), Justin de Benedictis-Kessner (2), Rachel Bernhard (3)	1. University of North Florida, 2. Harvard Kennedy School, 3. University of California, Davis
+0746	276	Yuleng Zeng	University of Salzburg
+0747	277	Indraneel Sircar	University College London
+0748	192	Álvaro Canalejo-Molero	European University Institute
+0749	193	David Weyrauch, Christoph Steinert	University of Mannheim
+0750	194	Oguzhan Turkoglu	Hertie School
+0751	195	Quynh Nguyen (1), Thomas Sattler (2), Tanja Schweinberger (2)	1. Australian National University, 2. University of Geneva
+0752	196	Anselm Hager (1), Werner Krause (1), Moritz Hennicke (2), Lukas Mergele (3)	1. Humboldt Universität zu Berlin, 2. Université libre de Bruxelles, 3. ifo institute
+0753	205	Shiyi Xia	University of Essex
+0754	199	Sara Hobolt (1), Moritz Osnabruegge (2)	1. London School of Economics, 2. Durham University
+0755	200	Christina-Marie Juen (1), Michael Jankowski (2), Markus Tepe (1)	1. University of Oldenburg, 2. University of Bremen
+0756	245	Kamil Marcinkiewicz	University of Hamburg
+0757	246	Katjana Gattermann (1), Thomas Meyer (2)	1. University of Amsterdam, 2. University of Vienna
+0758	202	Hanno Hilbig, Sascha Riaz	Harvard University
+0759	150	Mihail Chiru (1), Thomas Däubler (2), Maarja Lühiste (3)	1. Department of Politics and International Relations, University of Oxford, 2. School of Politics and International Relations, University College Dublin, 3. School of Geography, Politics and Sociology, Newcastle University
+0760	276	Florian Schaffner	University of Oxford
+0761	277	Seonghui Lee	University of Essex
+0762	193	Ana Carolina Garriga (1), Michael A. Gavin (2)	1. Department of Government, University of Essex, 2. Munk School of Global Affairs and Public Policy, University of Toronto
+0763	194	Jesse Dillon Savage (1), Jonathan Caverley (2)	1. Trinity College Dublin, 2. US Naval War College
+0764	195	Tobias Korn (1), Henry Stemmler (2)	1. Leibniz Universität Hannover, 2. Universität Göttingen
+0765	196	Catarina Leão	University of Oxford
+0766	205	Simon Bornschier (1), Manuel Vogt (2)	1. University of Zurich, 2. University College London
+0767	199	Peter Egge Langsæther (1), Silke Goubin (2), Atle Haugsgjerd (3)	1. University of Oslo, 2. KU Leuven, 3. Institute for Social Research, Oslo
+0768	200	Zeynep Somer-Topcu, Kendall Curtis	University of Texas at Austin
+0769	201	Guido Tiemann	Institute for Advanced Studies, Vienna, University of Klagenfurt
+0770	245	Radoslaw Markowski, Piotr Zagórski	SWPS University
+0771	246	Marlene Mauk (1), Max Grömping (2)	1. GESIS - Leibniz Institute for the Social Sciences, Cologne, Germany, 2. Griffith University, Brisbane, Australia
+0772	202	Tim Wappenhans, Heike Klüver, Lukas F. Stoetzer, António Valentim	Humboldt-Universität zu Berlin
+0773	247	Thomas Kurer (1,2), Tarik Abou-Chadi (3), Magda Breyer (2), Reto Mitteregger (2)	1. University of Konstanz, 2. University of Zurich, 3. Oxford University
+0774	150	Jens Olav Dahlgaard (1), Benjamin Egerod (1), Frederik Kjøller Larsen (2), Lene Holm Pedersen (2)	1. Copenhagen Business School, 2. University of Copenhagen
+0775	276	Ala' Alrababa'h (1,2), Dominik Hangartner (1,2), Dalston Ward (1), Andreas Beerli (1,3)	1. Immigration Policy Lab, ETH Zurich and Stanford University, 2. Center for Comparative and International Studies, ETH Zurich, 3. KOF Economic Institute
+0776	277	Constanza Sanhueza Petrarca, Heiko Giebler, Bernhard Weßels, Sandra Horvath	WZB Berlin Social Science Center
+0777	192	Jacob Gunderson	University of North Carolina at Chapel Hill
+0778	193	Timm Betz (2), Cristina Bodea (1), Andrew Kerner (1)	1. Michigan State University, 2. Technical University of Munich
+0779	194	Alex Weisiger (1), Barbara Elias (2)	1. University of Pennsylvania, 2. Bowdoin College
+0780	195	Kenneth Stiller	University of Oxford
+0781	196	Gabriel Leon-Ablan (1), Toke Aidt (2)	1. King's College London, 2. University of Cambridge
+0782	205	Adrienne LeBas (1), Lauren Young (2)	1. American University, 2. University of California at Davis
+0783	199	Theres Matthieß (1), Isabelle Guinaudeau (2), Elisa Deiss-Helbig (3)	1. Mannheim Centre for European Social Research (MZES), 2. Sciences Po Bordeaux, 3. University of Stuttgart
+0784	200	Mary Stegmaier (1), Kamil Marcinkiewicz (2), Lukas Linek (3)	1. Universitry of Missouri, 2. University of Hamburg, 3. Czech Academy of Sciences
+0785	245	Alan Jacobs (1), Mark Kayser (2)	1. University of British Columbia, 2. Hertie School, Berlin
+0786	201	Riccardo Di Leo (1), Elias Dinas (2), Kasia Nalewajko (2)	1. Department of Economics, University of Warwick, 2. Department of Political and Social Sciences, European University Institute
+0787	246	Henrik Seeberg (1), Michael Lewis-Beck (2)	1. Aarhus University, 2. University of Iowa
+0788	247	Monika Mühlböck (1), Danielle Martin (2)	1. University of Vienna, 2. University of Mannheim
+0789	150	Vera Troeger	University of Hamburg
+0790	277	Max Schaub (1), Eylem Kanol (2)	1. University of Hamburg, 2. WZB Berlin Social Science Center
+0791	192	Ida Hjermitslev	University of Vienna, Department of Government
+0792	193	Ryan Weldzius	Villanova University
+0793	194	Sergi Martínez (1), Vicente Valentim (2), Elias Dinas (1)	1. European University Institute, 2. University of Oxford
+0794	195	Alessia Invernizzi	University of Konstanz
+0795	196	Javier Padilla (1), Bernardino León (2), Thierry Rossier (3), Beatriz Valero (4), Carles Pamies (5), Erick Padilla (6), Inés Echevarría (3)	1. City University of New York, 2. Science Po, 3. London School of Economics, 4. University of Cambridge, 5. Universidad Autónoma de Madrid, 6. University Pompeu Fabra
+0796	205	Lennart Schürmann	University of Cologne
+0797	199	Jacob Sohlberg, Peter Esaiasson, Bengt Johansson	University of Gothenburg
+0798	200	Damien Bol, Gabriela Aguirre Fernandez, Andrew Hunter	King's College London
+0799	201	Klara Dentler	GESIS - Leibniz Institute for the Social Sciences, Germany, University of Mannheim, Germany
+0800	245	Martin Elff (1), Sigrid Rossteutscher (2)	1. Zeppelin University, Friedrichshafen, 2. Goethe-University Frankfurt/Main
+0801	202	Salomo Hirvonen	University of Turku
+0802	247	Anam Kuraishi	University of Essex
+0803	150	Andrea Aldrich (1), William Daniel (2)	1. Yale University, 2. University of Nottingham
+0804	277	Kirby Goidel, Timothy Callaghan, David Washburn, Tasmiah Nuzhath, Abigail Spiegelman, Julia Scoobe	Texas A&M
+0805	192	Benny Geys (1), Martin Bækgaard (2), Nanna Schönhage (3)	1. BI Norwegian Business School, 2. Aarhus University, 3. Universität Konstanz
+0806	193	Vytautas Kuokštis (1), Muhammad Asali (2,3, 4), Simonas Spurga (1)	1. Vilnius University, Institute of International Relations and Political Science, 2. International School of Economics, Tbilisi State University, 3. School of International and
+Public Affairs, Columbia University, 4. IZA, Institute of Labor Economics, Bonn, Germany
+0807	194	Carmela Lutmar	University of Haifa
+0808	195	Timm Betz, Leonhard Hummel	Technical University of Munich
+0809	199	Lukas Linek, Jaromír Mazák	Institute of Sociology, Czech Academy of Sciences
+0810	200	Filip Kostelka (1,2), Lenka Rovna (3), Jan Rovny (4)	1. European University Institute, 2. University of Essex, 3. Charles University, 4. Sciences Po, Paris
+0811	245	Martin Elff (1), Sigrid Rossteutscher (2)	1. Zeppelin University, Friedrichshafen, 2. Goethe-University Frankfurt/Main
+0812	201	David Andersen	Durham University
+0813	202	António Valentim, Heike Klüver, Cornelius Erfort	Humbolt-Universität zu Berlin
+0814	247	Marton Vegh	Department of Political Science, Central European University
+0815	278	Vincenzo Bove (1), Riccardo Di Leo (2), Marco Giani (3)	1. Department of Politics and International Studies, University of Warwick, 2. Department of Economics, University of Warwick, 3. Department of Political Economy, King’s College London
+0816	279	Pau Vall-Prat (1), Francesc Amat (2)	1. Universitat de Barcelona, 2. IPERG–Universitat de Barcelona
+0817	191	Lena Schaffer, Zsuzsanna Magyar	University of Lucerne
+0818	145	Jason Casellas (4), Matthew Ward (1), Scott Hofer (3), Susan Achury (2)	1. University of Louisiana, Lafayette, 2. Lycoming College, 3. St. Francis College, 4. University of Houston
+0819	148	Adam Ramey (1), Gary Hollibaugh (2), Jonathan Klingler (3)	1. New York University Abu Dhabi, 2. University of Pittsburgh, 3. University of Mississippi
+0820	147	Mariano Torcal, Josep Maria Comellas	Universitat Pompeu Fabra/ RECSM
+0821	178	Eleanor Florence Woodhouse (1), Christian Schuster (1), Jan-Hinrik Meyer-Sahling (2), Kim Sass Mikkelsen (3)	1. University College London, 2. Nottingham University, 3. Roskilde University
+0822	180	Valeria Resendez	University of Amsterdam / ASCoR
+0823	181	Miriam Golden (1), Matteo Ferroni (2), Ray Fisman (2)	1. European University Institute, 2. Boston University
+0824	182	Vasily Korovkin (1), Alexey Makarin (2)	1. CERGE-EI, 2. Einaudi Institute for Economics and Finance
+0825	184	Lachlan McNamee	University of California, Los Angeles (UCLA)
+0826	185	Dilan Gunes	Department of Sociology and Political Science, Norwegian University of Science and Technology (NTNU)
+0827	188	Rebecca Glazier (1), Christopher Williams (2), Leon Kockkaya (3)	1. University of Arkansas at Little Rock, 2. Fors Marsh Group, 3. Texas A&M University
+0828	249	Francesco Colombo	European University Institute, Aarhus University
+0829	252	Federica Genovese, Muzhou Zhang	University of Essex
+0830	278	Francesc Amat (1), Laia Balcells (2)	1. University of Barcelona, 2. Georgetown University
+0831	279	Guillem Riambau (1,2, 4), Carles Boix (2,3)	1. Universitat de Barcelona, 2. IPErG, 3. Princeton University, 4. IEB
+0832	191	Roman Senninger, Henrik Seeberg	Aarhus University
+0833	145	Mariana Borges Martins da Silva (2), Malu Gatto (1)	1. University College London, 2. University of Oxford
+0834	147	Luana Russo (1), Sabrina Mayer (1,2)	1. Maastricht University, Political Science Department, 2. University of Duisburg-Essen
+University of Bamberg
+0835	148	Allison Koh	Centre for International Security, Hertie School
+0836	178	Niklas Harder (1,2), Jorah Diethold (1)	1. Deutsches Zentrum für Integrations und Migrationsforschung DeZIM e.V., 2. Immigration Policy Lab, Stanford University
+0837	180	Nathalie Giger, Elisa Volpi	University of Geneva
+0838	181	Michael Imre	University of Mannheim, University of Heidelberg
+0839	182	Jaakko Meriläinen (1), Matti Mitrunen (2)	1. ITAM, 2. University of Helsinki
+0840	184	Jana Mayer (1,2), Gerald Schneider (1,2)	1. University of Konstanz, 2. Cluster of Excellence 'Politics of Inequality'
+0841	185	Mateo Vasquez-Cortes	ITAM - Instituo Tecnologico Autonomo de Mexico
+0842	188	Lasse Aaskoven	Department of Political Science and Public Management, University of Southern Denmark
+0843	252	Dennis Kolcava, Keith Smith, Thomas Bernauer	ETH Zurich
+0844	278	James Walsh (3), Onah Peter Thompson (1), Jonathan Hall (2)	1. University of North Carolina at Charlotte, 2. Uppsala University & Stockholm International Peace Research Institute, 3. University of North Carolina at Charlotte
+0845	279	Carl Müller-Crepon (1), Clara Neupert-Wentz (2)	1. University of Oxford, 2. Aarhus University
+0846	191	John Kenny (1), Peter Egge Langsæther (2)	1. University of East Anglia, 2. University of Oslo
+0847	145	Michael Jankowski	University of Oldenburg
+0848	147	Daniel Balinhas	Universitat Autònoma de Barcelona
+0849	180	Lisa Oswald (1), Simon Munzert (1), Andrew Guess (2), Pablo Barberá (3), JungHwan Yang (4)	1. Hertie School, 2. Princeton University, 3. University of Southern California, 4. University of Illinois at Urbana-Champaign
+0850	181	Lucas Leemann (1), Patrick Emmenegger (2), André Walter (1)	1. University of Zurich, 2. University of St. Gallen
+0851	182	Dylan Potts	European University Institute
+0852	184	Alexandra Hartman, Sigrid Weber	UCL
+0853	185	Yujing Fan	Columbia University
+0854	188	Silke Goubin, Anna Ruelens, Ides Nicaise	HIVA, KU Leuven
+0855	249	Jacob Nyrup (1), Martin Vinæs Larsen (2)	1. University of Oslo, 2. Aarhus University
+0856	252	Christian Rauh (1), Heiko Giebler (1,2), Jan Paul Heisig (1,2), Johannes Gerschewski (1), Jianghong Li (1)	1. WZB Berlin Social Science Center, 2. Free University Berlin
+0857	278	Sabine Carey (1), Christian Gläßel (2), Katrin Paula (3)	1. University of Mannheim, 2. Hertie School, 3. Technical University of Munich
+0858	279	Anders Wieland	Aarhus University
+0859	191	Dafni Kalatzi Pantera	University of Essex
+0860	145	Daniel Höhmann (1), Corinna Kroeber (2), Stefanie Bailer (1)	1. University of Basel, 2. University of Greifswald
+0861	148	Thomas Robinson	Durham University
+0862	147	João Areal	Mannheim Centre for European Social Research (MZES) - University of Mannheim
+0863	178	Anders Ejrnæs (1), Mads Dagnis Jensen (2)	1. Roskilde University, 2. COPENHAGEN BUSINESS SCHOOL
+0864	180	Bernhard Clemm von Hohenberg (1), Chankyung Pak (2), Magdalena Wojcieszak (1,3), Ericka Menchen-Trevino (4)	1. University of Amsterdam, 2. Beijing Normal University-Hong Kong Baptist University, 3. University of California, Davis, 4. American University
+0865	181	Javier Padilla Moreno-Torres	City University of New York, Graduate Center
+0866	182	Oleksandra Petrenko	Taras Shevchenko National University of Kyiv
+0867	184	Nikhar Gaikwad (1), Kolby Hanson (2), Aliz Toth (3)	1. Columbia University, 2. US Naval War College, 3. Stanford University
+0868	185	Miceal Canavan (1), Oguzhan Turkoglu (2)	1. Trinity College Dublin, 2. Hertie School
+0869	188	António Valentim (1), Korinna O. Lindemann (2)	1. Humboldt-Universität zu Berlin, 2. Hertie School
+0870	249	Leo Ahrens	Free University of Berlin
+0871	252	Lukas Linek, Michael Škvrňák	Institute of Sociology, Czech Academy of Sciences
+0872	279	Anne Degrave	New York University
+0873	191	Jae-Hee Jung	University of Houston
+0874	184	Bernd Beber (1,2), Alexandra Scacco (2), Macartan Humphreys (2,3), Pheliciah Mwachofi (4), Dean Yang (5)	1. RWI - Leibniz Institute for Economic Research, 2. WZB Berlin Social Science Center, 3. Columbia University, 4. Innovations for Poverty Action, 5. University of Michigan
+0875	188	William Allen (1), Kristoffer Ahlstrom-Vij (2)	1. University of Oxford, 2. Birkbeck, University of London
+0876	249	Anne-Kathrin Stroppe	GESIS - Leibniz Insitute for the Social Sciences
+0877	13	Erinn Lauterbach (1), Craig Volden (1), Alan Wiseman (2)	1. University of Virginia, 2. Vanderbilt University
+0878	74	Ivo Bantel (1), Markus Kollberg (2)	1. Center for Comparative and International Studies, University of Zurich, 2. University College London
+0879	190	Thiago M. Q. Moreira, Andrea Junqueira, José Antonio Cheibub	Texas A&M University
+0880	204	Alona Dolinsky	University College Dublin
+0881	207	Colin Jennings, Santiago Sanchez-Pages	Department of Political Economy,
+King's College London
+0882	208	Nelson Ruiz (1), Miguel Rueda (2), Nicolás Idrobo (3)	1. University of Oxford, 2. Emory University, 3. University of Pennsylvania
+0883	210	Devorah Manekin (1), Tamar Mitts (2), Yael Zeira (3)	1. Hebrew University of Jerusalem, 2. Columbia University, 3. Syracuse University
+0884	211	Geoffrey Evans (1,2), Jane Green (1,2), Dan Snow (1,2)	1. Nuffield College, Oxford University, 2. Nuffield Politics Research Centre
+0885	212	Sofia Vasilopoulou (1), Liisa Talving (2), Dan Keith (1)	1. University of York, 2. University of Tartu
+0886	213	Macarena Valenzuela Beltrán	ICSO
+0887	214	Noam Titelman (1), Benjamin Lauderdale (2)	1. London School of Economics (LSE), 2. University College London (UCL)
+0888	250	Jeremias Nieminen (1), Salla Simola (2), Janne Tukiainen (1,3)	1. University of Turku, 2. Storytel, 3. VATT Institute for Economic Research
+0889	13	Moritz Osnabrügge (1), Matia Vannoni (2)	1. Durham University, 2. King's College London
+0890	74	Sara Hobolt (1), Katharina Lawall (1), James Tilley (2)	1. London School of Economics, 2. University of Oxford
+0891	189	David Sylvan, Jean-Louis Arcand, Ashley Thornton	Graduate Institute of International and Development Studies
+0892	190	Karen Nershi (1), Selina Hofstetter (2)	1. Postdoctoral Fellow, Stanford Internet Observatory, Stanford University, 2. Postdoctoral Fellow, Democracy & Polarization Lab, Stanford University
+0893	204	Zsuzsanna Magyar	University of Lucerne
+0894	207	Amelie Freiberg	Trinity College Dublin
+0895	208	Jan Stuckatz (1), Heike Klüver (1), Kai-Uwe Schnapp (2)	1. Humboldt-Universität zu Berlin, 2. Universität Hamburg
+0896	210	Eva Krejcova	University of Cambridge
+0897	211	Christoffer Dausgaard	University of Copenhagen
+0898	212	Vishali Sairam (1), Vincent Heddesheimer (2), Joanna Bryson (1)	1. Hertie School, 2. Princeton University
+0899	213	Patrick Fournier (1), Stuart Soroka (2)	1. Universite de Montreal, 2. University of California, Los Angeles
+0900	214	Nils Jungmann	GESIS – Leibniz Institute for the Social Sciences
+0901	250	Lasse Laustsen (1), Julian Aichholzer (2)	1. Aarhus University, 2. Independent researcher
+0902	251	Ekaterina Kolpinskaya (1), Stuart Fox (2)	1. University of Exeter, 2. Brunel University London
+0903	74	Emma A. Renström (1), Hanna Bäck (2), Royce Carroll (4), Alexander Ryan (3)	1. Kristianstad University, 2. Lund University, 3. Mid-Sweden University, 4. Essex University
+0904	189	Michal Parizek, Jakub Stauber	Charles University, Faculty of Social Sciences, Institute of Political Studies
+0905	190	Romain Lachat (1), Jean-François Laslier (2)	1. Cevipof, Sciences Po, 2. Paris School of Economics
+0906	204	John Griffin	University of Colorado Boulder
+0907	208	Ameetosri (Amy) Basu	Yale University
+0908	210	Elias Dinas (1), Anna Getmansky (2), Julian Wucherpfennig (3)	1. EUI, 2. LSE, 3. Hertie School of Governance
+0909	211	Tom Arend	Hertie School
+0910	212	Alexander Pacek (1), Emma Schmidt (1), Benjamin Radcliff (1)	1. Texas A&M University, 2. University of Notre Dame, 3. University of Notre Dame
+0911	214	Katharina Lawall (1), Stuart Turnbull-Dugarte (2), Florian Foos (1), Josh Townsley (1)	1. London School of Economics, 2. University of Southampton
+0912	250	Sergi Ferrer	University of Barcelona
+0913	251	Andrés Bernstein (1), Jason McDaniel (2)	1. PHD Candidate at University de les Illes Balears, Spain, 2. San Francisco State University
+0914	13	Laura Gatto	Université de Lausanne
+0915	74	Markus Wagner (1), Katrin Praprotnik (2)	1. University of Vienna, 2. Danube University Krems
+0916	189	Marieke van Hoof, Corine Meppelink, Judith Möller, Damian Trilling	Amsterdam School of Communication Research, University of Amsterdam
+0917	190	Liran Harsgor (1), Liron Lavi (2)	1. University of Haifa, 2. University of California, Los Angeles
+0918	204	Felix Wohlgemuth	Johannes Kepler University Linz - Institute of Politics and Social Policy
+0919	207	Minnie Minhyung Joo	University of Massachusetts Lowell
+0920	208	Lorenzo Crippa	University of Essex
+0921	210	Judith Spirig	UCL
+0922	211	Francisco Espinoza	School of Social Sciences, The University of Manchester
+0923	212	Alexandra Jabbour	University of Montreal
+0924	213	Ralph Scott	University of Manchester
+0925	214	Lena Masch (1), Christian von Scheve (2), Ursula Hess (1)	1. Humboldt University of Berlin, 2. Free University of Berlin
+0926	13	Moulay Lablih (1), Lea Portmann (2), Pirmin Bundi (1)	1. University of Lausanne, 2. University of Luzern
+0927	74	Noam Gidron (1), Lior Sheffer (2)	1. Hebrew University of Jerusalem, 2. Tel Aviv University
+0928	189	Mónika Simon (1), Kasper Welbers (2), Anne Kroon (1), Damian Trilling (1)	1. University of Amsterdam, Communication Science, 2. Vrije Universiteit
+0929	190	Michał Pierzgalski (1), Maciej A. Górecki (2)	1. University of Lodz, 2. University of Warsaw
+0930	204	Mads Andreas Elkjær	University of Oxford
+0931	207	Oliver Pamp, Paul W. Thurner, Andreas Mehltretter	Ludwig-Maximilians Universität München
+0932	214	Maurits Meijers (1), Björn Bremer (2), Theresa Kuhn (3), Francesco Nicoli (4)	1. Radboud University Nijmegen, 2. Max Planck Institute for the Study of Societies Cologne, 3. University of Amsterdam, 4. Ghent University
+0933	251	Alina Vranceanu	European University Institute
