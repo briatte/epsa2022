@@ -4,6 +4,11 @@ library(rvest)
 # [NOTE] code below adapted from that used in `briatte/epsa2020`, with major
 #        differences (different code on chairs/discussants, more data cleaning)
 
+# [NOTE] well, code copied from `epsa2021`, with minimal edits, keeping even
+#        some fixes that should be idiosyncratic to 2021...
+
+# TODO: fix TODO notes, and inspect entire thing much more thoroughly
+
 # [NOTE] all program information extracted from abstracts
 #        (we downloaded session pages but do not use them here)
 
@@ -71,10 +76,10 @@ d <- map(f, read_html) %>%
     chairs = str_squish(chairs),
     discussants = str_squish(discussants),
     # abstract presenters are always 100% clean, except for this below, once
-    abstract_presenters = str_replace(abstract_presenters, ",,", ",") %>%
-      # minimal data cleaning
-      str_remove_all("(Prof|Dr)\\.\\s") %>%
+    abstract_presenters = abstract_presenters %>%
       # single fix that helps a lot with (chair) affiliations
+      # [NOTE] this fix is from 2021, but let's keep it here too for now?
+      # TODO; check whether this makes any sense
       str_replace("Andreas Goldberg", "Andreas C Goldberg"),
     # same goes for affiliations and abstracts, where there are just a few \r\n
     affiliations = str_squish(affiliations) %>%
@@ -100,8 +105,9 @@ stopifnot(!duplicated(d$abstract_ref))
 
 # match authors and affiliations ------------------------------------------
 
-# problem: (bracketed part) in names will cause issues
-str_subset(d$author, "Basu")
+# problem: (bracketed part) in names will cause issues,
+# e.g. 'Ameetosri (Amy) Basu'
+str_subset(d$authors, "Basu")
 
 # # problem: commas in one particular form of affiliation numbers will create
 # issues in the next code block, so remove it first
@@ -146,7 +152,8 @@ d$matched <- map2(d$authors, d$affiliations, ~ full_join(.x, .y, by = "aid"))
 
 d <- tidyr::unnest(d, matched) %>%
   select(-authors, -affiliations, -aid) %>%
-  # lose single case of a lone affiliation that wasn't matched to an author
+  # lose 8 cases of lone affiliations that weren't matched to an author
+  # TODO: re-examine whether anything might help fix that
   filter(!is.na(author)) %>%
   # clean some punctuation
   mutate(
@@ -162,19 +169,22 @@ d <- tidyr::unnest(d, matched) %>%
   ungroup()
 
 # n = 57 authors with multiple affiliations
+# [NOTE] same value as 2021?!
+# TODO: check, that's weird...
 sum(str_detect(d$affiliation, "&&"))
 
 # sanity check: all abstract presenters are present in abstract authors
 y <- unique(d$abstract_presenters) %>%
   str_split(",\\s") %>%
   unlist() %>%
-  unique()
+  unique() %>%
+  str_remove("\\s\\(.*?\\)") # fixes "Ameetosri (Amy) Basu"
 
 stopifnot(y %in% d$author)
 
 # check whether chairs exist as authors -----------------------------------
 
-# [NOTE] some chairs have a special value: "Shared by Panellists"
+# [NOTE] no "Shared by Panellists" special value
 
 # chairs
 y <- str_split(d$chairs, ",\\s") %>%
@@ -182,8 +192,8 @@ y <- str_split(d$chairs, ",\\s") %>%
   unique() %>%
   sort()
 
-# n = 14 cases for which affiliations cannot be retrieved from authors
-# n = 109 cases where that's possible
+# n = 51 cases for which affiliations cannot be retrieved from authors
+# n = 147 cases where that's possible
 table(y %in% unique(d$author))
 
 # check whether discussants exist as authors ------------------------------
@@ -196,13 +206,13 @@ z <- str_split(d$discussants, ",\\s") %>%
   unique() %>%
   sort()
 
-# n = 20 cases for which affiliations cannot be retrieved from authors
-# n = 111 cases where that's possible
+# n = 39 cases for which affiliations cannot be retrieved from authors
+# n = 171 cases where that's possible
 table(z %in% unique(d$author))
 
 # authors with multiple affiliations --------------------------------------
 
-# n = 120 (57 cases with 2-3 affiliations each), fixable via manual fixes file
+# n = 241 (114 cases with 2-3 affiliations each), fixable via manual fixes file
 p <- d %>%
   distinct(author, affiliation) %>%
   arrange(author) %>%
@@ -262,7 +272,7 @@ stopifnot(!is.na(d$affiliation)) # applies to authors/presenters only here
 
 # reformat ----------------------------------------------------------------
 
-# [NOTE] "Shared by Panellists" (happens for chairs and discussants alike)
+# [NOTE] as stated earlier, "Shared by Panellists" never happens on this year
 sum(d$chairs %in% "Shared by Panellists")
 sum(d$discussants %in% "Shared by Panellists")
 
