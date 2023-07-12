@@ -259,7 +259,8 @@ z <- readr::read_tsv("data/affiliation-fixes.tsv", col_types = "ccc")
 # - fixes cover all initially problematic cases
 stopifnot(y$full_name %in% z$full_name)
 # - fixes contain nothing but initially problematic cases
-stopifnot(z$full_name %in% y$full_name)
+#   (removed: not true because we also fix a few names)
+# stopifnot(z$full_name %in% y$full_name)
 # - no weird or missing values in fixes
 stopifnot(!is.na(y$full_name) & y$full_name != "")
 # - no duplicate names in fixes
