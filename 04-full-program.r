@@ -206,6 +206,14 @@ z <- str_split(d$discussants, ",\\s") %>%
 # n = 171 cases where that's possible
 table(z %in% unique(d$author))
 
+# identify abstract presenters --------------------------------------------
+
+# [NOTE] do this before fixing any names, as do below when fixing affiliations
+d <- d %>%
+  mutate(presenter = str_detect(abstract_presenters, author),
+         presenter = if_else(presenter, "y", "n")) %>%
+  select(-abstract_presenters)
+
 # authors with multiple affiliations --------------------------------------
 
 # n = 241 (114 cases with 2-3 affiliations each), fixable via manual fixes file
@@ -308,9 +316,10 @@ d <- bind_rows(
     left_join(distinct(d, author, affiliation), by = c("full_name" = "author")) %>%
     add_column(role = "d"),
   # authors
-  select(d, -chairs, -discussants, full_name = author) %>%
+  select(d, -chairs, -discussants, full_name = author, presenter) %>%
     add_column(role = "p")
 ) %>%
+  relocate(presenter, .after = "role") %>%
   arrange(session_id, role, full_name)
 
 # sanity checks
